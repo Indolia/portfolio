@@ -5,8 +5,197 @@
 :root {
     --main-background-color: #935d8c;
     --main-background-image-grad-start: #e37682;
-    --main-background-image-grad-end:#5f4d93;
-    --main-body-color:rgba(255, 255, 255, 0.65);
+    --main-background-image-grad-end: #5f4d93;
+    --alt-class-contain-color: rgba(255, 255, 255, 0.65);
+    /* Text */
+    --text-primary: #ffffff;
+    /* Increased opacity for better contrast on the main background */
+    --text-secondary: rgba(255, 255, 255, 0.95);
+    --link-hover: #ffffff;
+
+    /* Borders / dividers */
+    --border-soft: rgba(255, 255, 255, 0.35);
+
+    /* Code / surfaces */
+    --code-bg: rgba(255, 255, 255, 0.075);
+
+    --box-border-color: rgba(255, 255, 255, 0.35);
+
+    /* Default (ghost) button */
+    --button-bg: transparent;
+    --button-border: rgba(255, 255, 255, 0.35);
+    --button-text: #ffffff;
+    --button-hover-bg: rgba(255, 255, 255, 0.075);
+    --button-active-bg: rgba(255, 255, 255, 0.2);
+    --button-icon: rgba(255, 255, 255, 0.5);
+
+    /* Primary button */
+    --button-primary-bg: #8cc9f0;
+    --button-primary-hover-bg: #9acff2;
+    --button-primary-active-bg: #7ec3ee;
+    /* Use a dark text color on the light primary button to satisfy WCAG contrast */
+    --button-primary-text: #083040;
+
+    --select-focus-bg: transparent;
+
+    /* Labels & text */
+    --form-label: #ffffff;
+    /* Use dark text inside form controls on the light theme for good contrast */
+    --form-text: #083040;
+    --form-placeholder: rgba(255, 255, 255, 0.5);
+
+    /* Inputs */
+    /* Slightly stronger input surface so dark form text meets contrast */
+    --form-bg: rgba(255, 255, 255, 0.35);
+    --form-border: rgba(255, 255, 255, 0.35);
+
+    /* Focus */
+    --form-focus: #8cc9f0;
+
+    /* Select */
+    --form-select-arrow: rgba(255, 255, 255, 0.35);
+    --form-select-option-bg: #935d8c;
+    --form-select-option-text: #ffffff;
+
+    /* Checkbox / Radio */
+    --form-check-bg: rgba(255, 255, 255, 0.075);
+    --form-check-border: rgba(255, 255, 255, 0.35);
+    --form-check-active-bg: #ffffff;
+    --form-check-active-text: #935d8c;
+
+    --icon-style1: #efa8b0;
+    --icon-style2: #c79cc8;
+    --icon-style3: #a89cc8;
+    --icon-style4: #9bb2e1;
+    --icon-style5: #8cc9f0;
+    /* Icon borders */
+    --icon-border: rgba(255, 255, 255, 0.35);
+
+    /* Icon alt (interactive) */
+    --icon-alt-text: #ffffff;
+    --icon-alt-hover-bg: rgba(255, 255, 255, 0.075);
+    --icon-alt-active-bg: rgba(255, 255, 255, 0.2);
+
+    /* List / divider */
+    --list-divider: rgba(255, 255, 255, 0.35);
+
+    /* Definition list title */
+    --dl-title: #ffffff;
+    /* Section header divider */
+    --header-divider: rgba(255, 255, 255, 0.35);
+    /* Table borders */
+    --table-border: rgba(255, 255, 255, 0.35);
+
+    /* Zebra row background */
+    --table-row-alt-bg: rgba(255, 255, 255, 0.075);
+
+    /* Table header text */
+    --table-header-text: #ffffff;
+
+    /* Text */
+    --stats-text-color: #ffffff;
+
+    /* Card colors */
+    --stats-style1-bg: #efa8b0;
+    --stats-style2-bg: #c79cc8;
+    --stats-style3-bg: #a89cc8;
+    --stats-style4-bg: #9bb2e1;
+    --stats-style5-bg: #8cc9f0;
+
+
+    --spotlight-image-border: rgba(255, 255, 255, 0.35);
+
+    --back-btn-bg: rgba(255, 255, 255, 0.9);
+    --back-btn-color: #333;
+    --back-btn-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+    --back-btn-shadow-hover: 0 10px 24px rgba(0, 0, 0, 0.2);
+
+    /* Slightly increase toggle background opacity so white icon meets contrast */
+    --theme-toggle-bg: rgba(255, 255, 255, 0.35);
+    --theme-toggle-border: rgba(255, 255, 255, 0.3);
+    /* Use darker icon color on light backgrounds so it meets contrast requirements */
+    --theme-toggle-color: #083040;
+    --theme-toggle-shadow: 0 4px 14px rgba(0, 0, 0, 0.3);
+}
+
+/* Add a media query so that on initial paint the user's system preference is respected
+   This prevents a flash of the wrong theme while JS initializes. The JS will still
+   control and persist the user's explicit choice afterwards. */
+@media (prefers-color-scheme: dark) {
+    :root {
+        /* Apply values that match the [data-theme="dark"] block below for initial paint */
+        --main-background-color: #0f1220;
+        --main-background-image-grad-start: #0b0e1a;
+        --main-background-image-grad-end: #1b1f3b;
+        --alt-class-contain-color: rgba(255, 255, 255, 0.72);
+
+        --text-primary: #e6e6eb;
+        --text-secondary: rgba(235, 235, 245, 0.6);
+        --link-hover: #ffffff;
+
+        --border-soft: rgba(255, 255, 255, 0.18);
+        --code-bg: rgba(255, 255, 255, 0.08);
+        --box-border-color: rgba(255, 255, 255, 0.18);
+
+        --button-border: rgba(255, 255, 255, 0.18);
+        --button-text: #e6e6eb;
+        --button-hover-bg: rgba(255, 255, 255, 0.06);
+        --button-active-bg: rgba(255, 255, 255, 0.12);
+
+        --button-primary-bg: #4da3d9;
+        --button-primary-hover-bg: #5aaae0;
+        --button-primary-active-bg: #3f95cc;
+        --button-primary-text: #083040;
+
+        --form-label: #e6e6eb;
+        --form-text: rgba(235, 235, 245, 0.6);
+        --form-placeholder: rgba(235, 235, 245, 0.45);
+
+        --form-bg: rgba(255, 255, 255, 0.06);
+        --form-border: rgba(255, 255, 255, 0.18);
+
+        --form-focus: #4da3d9;
+
+        --form-select-arrow: rgba(255, 255, 255, 0.3);
+        --form-select-option-bg: #1c1c1e;
+        --form-select-option-text: #ffffff;
+
+        --form-check-bg: rgba(255, 255, 255, 0.06);
+        --form-check-border: rgba(255, 255, 255, 0.18);
+
+        --icon-style1: #f2a6b1;
+        --icon-style2: #d1a6d6;
+        --icon-style3: #b7aad6;
+        --icon-style4: #a9bde8;
+        --icon-style5: #6fb6e8;
+
+        --list-divider: rgba(255, 255, 255, 0.18);
+        --dl-title: #e6e6eb;
+        --header-divider: rgba(255, 255, 255, 0.18);
+        --table-border: rgba(255, 255, 255, 0.18);
+
+        --table-row-alt-bg: rgba(255, 255, 255, 0.04);
+        --table-header-text: rgba(255, 255, 255, 0.9);
+
+        --stats-text-color: #ffffff;
+        --stats-style1-bg: color-mix(in srgb, #efa8b0 40%, #000);
+        --stats-style2-bg: color-mix(in srgb, #c79cc8 40%, #000);
+        --stats-style3-bg: color-mix(in srgb, #a89cc8 40%, #000);
+        --stats-style4-bg: color-mix(in srgb, #9bb2e1 40%, #000);
+        --stats-style5-bg: color-mix(in srgb, #8cc9f0 40%, #000);
+
+        --spotlight-image-border: rgba(255, 255, 255, 0.18);
+
+        --back-btn-bg: rgba(30, 30, 35, 0.95);
+        --back-btn-color: #ffffff;
+        --back-btn-shadow: 0 6px 18px rgba(0, 0, 0, 0.5);
+        --back-btn-shadow-hover: 0 10px 28px rgba(0, 0, 0, 0.7);
+
+        --theme-toggle-bg: rgba(20, 20, 25, 0.85);
+        --theme-toggle-border: rgba(255, 255, 255, 0.12);
+        --theme-toggle-color: #ffffff;
+        --theme-toggle-shadow: 0 6px 20px rgba(0, 0, 0, 0.6);
+    }
 }
 
 /* =========================
@@ -17,15 +206,124 @@
 [data-theme="dark"] {
     /*--main-background-color: #0f1220;*/
     --main-background-color: #0f1220;
-    --main-background-image-grad-start: #1b1f3b;
-    --main-background-image-grad-end: #0b0e1a;
-    --main-body-color: rgba(255, 255, 255, 0.72);
+    --main-background-image-grad-start: #0b0e1a;
+    --main-background-image-grad-end: #1b1f3b;
+    --alt-class-contain-color: rgba(255, 255, 255, 0.72);
+
+    /* Text */
+    --text-primary: #e6e6eb;
+    --text-secondary: rgba(235, 235, 245, 0.6);
+    --link-hover: #ffffff;
+
+    /* Borders / dividers */
+    --border-soft: rgba(255, 255, 255, 0.18);
+
+    /* Code / surfaces */
+    --code-bg: rgba(255, 255, 255, 0.08);
+
+    /*box */
+    --box-border-color:rgba(255, 255, 255, 0.18);
+
+    /* Default (ghost) button */
+    --button-bg: transparent;
+    --button-border: rgba(255, 255, 255, 0.18);
+    --button-text: #e6e6eb;
+    --button-hover-bg: rgba(255, 255, 255, 0.06);
+    --button-active-bg: rgba(255, 255, 255, 0.12);
+    --button-icon: rgba(255, 255, 255, 0.45);
+
+    /* Primary button */
+    --button-primary-bg: #4da3d9;
+    --button-primary-hover-bg: #5aaae0;
+    --button-primary-active-bg: #3f95cc;
+    /* Use darker primary text on bright primary buttons for contrast (matches light theme) */
+    --button-primary-text: #083040;
+
+    --select-focus-bg: transparent;
+
+    /* Labels & text */
+    --form-label: #e6e6eb;
+    --form-text: rgba(235, 235, 245, 0.6);
+    --form-placeholder: rgba(235, 235, 245, 0.45);
+
+    /* Inputs */
+    --form-bg: rgba(255, 255, 255, 0.06);
+    --form-border: rgba(255, 255, 255, 0.18);
+
+    /* Focus */
+    --form-focus: #4da3d9;
+
+    /* Select */
+    --form-select-arrow: rgba(255, 255, 255, 0.3);
+    --form-select-option-bg: #1c1c1e;
+    --form-select-option-text: #ffffff;
+
+    /* Checkbox / Radio */
+    --form-check-bg: rgba(255, 255, 255, 0.06);
+    --form-check-border: rgba(255, 255, 255, 0.18);
+    --form-check-active-bg: #ffffff;
+    --form-check-active-text: #1c1c1e;
+
+    --icon-style1: #f2a6b1;
+    --icon-style2: #d1a6d6;
+    --icon-style3: #b7aad6;
+    --icon-style4: #a9bde8;
+    --icon-style5: #6fb6e8;
+    /* Icon borders */
+    --icon-border: rgba(255, 255, 255, 0.18);
+
+    /* Icon alt (interactive) */
+    --icon-alt-text: #e6e6eb;
+    --icon-alt-hover-bg: rgba(255, 255, 255, 0.06);
+    --icon-alt-active-bg: rgba(255, 255, 255, 0.12);
+
+    /* List / divider (softer in dark UI) */
+    --list-divider: rgba(255, 255, 255, 0.18);
+
+    /* Definition list title */
+    --dl-title: #e6e6eb;
+    /* Softer divider for dark background */
+    --header-divider: rgba(255, 255, 255, 0.18);
+    /* Softer borders on dark surfaces */
+    --table-border: rgba(255, 255, 255, 0.18);
+
+    /* Subtle contrast for zebra rows */
+    --table-row-alt-bg: rgba(255, 255, 255, 0.04);
+
+    /* Slightly dimmed white */
+    --table-header-text: rgba(255, 255, 255, 0.9);
+
+    /* Text */
+    --stats-text-color: #ffffff;
+    /*--stats-style1-bg: #7a2e3a; !* muted rose *!*/
+    /*--stats-style2-bg: #5b3f66; !* muted purple *!*/
+    /*--stats-style3-bg: #4b4566; !* muted lavender *!*/
+    /*--stats-style4-bg: #344466; !* muted blue *!*/
+    /*--stats-style5-bg: #2f5f7a; !* muted cyan-blue *!*/
+
+    --stats-style1-bg: color-mix(in srgb, #efa8b0 40%, #000);
+    --stats-style2-bg: color-mix(in srgb, #c79cc8 40%, #000);
+    --stats-style3-bg: color-mix(in srgb, #a89cc8 40%, #000);
+    --stats-style4-bg: color-mix(in srgb, #9bb2e1 40%, #000);
+    --stats-style5-bg: color-mix(in srgb, #8cc9f0 40%, #000);
+
+    --spotlight-image-border: rgba(255, 255, 255, 0.18);
+
+    --back-btn-bg: rgba(30, 30, 35, 0.95);
+    --back-btn-color: #ffffff;
+    --back-btn-shadow: 0 6px 18px rgba(0, 0, 0, 0.5);
+    --back-btn-shadow-hover: 0 10px 28px rgba(0, 0, 0, 0.7);
+
+    --theme-toggle-bg: rgba(20, 20, 25, 0.85);
+    --theme-toggle-border: rgba(255, 255, 255, 0.12);
+    --theme-toggle-color: #ffffff;
+    --theme-toggle-shadow: 0 6px 20px rgba(0, 0, 0, 0.6);
 }
 
-
+/* ========================= */
 /* Floating Theme Toggle */
 #theme-toggle {
-    all: unset; /* 🔥 resets Stellar button styles */
+    all: unset; /* 🔥 kill Stellar button styles */
 
     position: fixed;
     top: 1.25rem;
@@ -34,7 +332,7 @@
     width: 44px;
     height: 44px;
 
-    display: flex;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
 
@@ -42,28 +340,43 @@
     cursor: pointer;
     z-index: 9999;
 
-    background: rgba(255, 255, 255, 0.2);
+    background: var(--theme-toggle-bg);
+    color: var(--theme-toggle-color);
+
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
 
     box-shadow:
-            0 4px 14px rgba(0, 0, 0, 0.3),
-            inset 0 0 0 1px rgba(255, 255, 255, 0.25);
+            var(--theme-toggle-shadow),
+            inset 0 0 0 1px var(--theme-toggle-border);
 
-    color: #fff;
     font-size: 1rem;
+    line-height: 1;
+
+    transition:
+            transform 0.2s ease,
+            box-shadow 0.2s ease,
+            background-color 0.2s ease;
 }
 
+/* Icon */
 #theme-toggle i {
-    line-height: 1;
     font-size: 1.1rem;
+    line-height: 1;
+    width: 1em;
+    height: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     pointer-events: none;
 }
 
+/* Hover */
 #theme-toggle:hover {
     transform: scale(1.08);
 }
 
+/* Active */
 #theme-toggle:active {
     transform: scale(0.95);
 }

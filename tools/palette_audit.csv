@@ -1,0 +1,961 @@
+theme,fg_var,fg_val,bg_var,bg_val,contrast,AA,AAA
+light,--alt-class-contain-color,"rgba(255, 255, 255, 0.65)",--main-background-color,#935d8c,3.11,FAIL,FAIL
+light,--alt-class-contain-color,"rgba(255, 255, 255, 0.65)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--alt-class-contain-color,"rgba(255, 255, 255, 0.65)",--button-primary-bg,#8cc9f0,1.47,FAIL,FAIL
+light,--alt-class-contain-color,"rgba(255, 255, 255, 0.65)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--alt-class-contain-color,"rgba(255, 255, 255, 0.65)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--back-btn-bg,"rgba(255, 255, 255, 0.9)",--main-background-color,#935d8c,4.42,FAIL,FAIL
+light,--back-btn-bg,"rgba(255, 255, 255, 0.9)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--back-btn-bg,"rgba(255, 255, 255, 0.9)",--button-primary-bg,#8cc9f0,1.70,FAIL,FAIL
+light,--back-btn-bg,"rgba(255, 255, 255, 0.9)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--back-btn-bg,"rgba(255, 255, 255, 0.9)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--back-btn-color,#333,--main-background-color,#935d8c,2.52,FAIL,FAIL
+light,--back-btn-color,#333,--form-bg,"rgba(255, 255, 255, 0.35)",4.86,PASS,FAIL
+light,--back-btn-color,#333,--button-primary-bg,#8cc9f0,7.06,PASS,PASS
+light,--back-btn-color,#333,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",4.86,PASS,FAIL
+light,--back-btn-color,#333,--back-btn-bg,"rgba(255, 255, 255, 0.9)",11.13,PASS,PASS
+light,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.15)",--main-background-color,#935d8c,1.29,FAIL,FAIL
+light,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.15)",--form-bg,"rgba(255, 255, 255, 0.35)",1.12,FAIL,FAIL
+light,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.15)",--button-primary-bg,#8cc9f0,1.38,FAIL,FAIL
+light,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.15)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.12,FAIL,FAIL
+light,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.15)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.29,FAIL,FAIL
+light,--back-btn-shadow-hover,"0 10px 24px rgba(0, 0, 0, 0.2)",--main-background-color,#935d8c,1.40,FAIL,FAIL
+light,--back-btn-shadow-hover,"0 10px 24px rgba(0, 0, 0, 0.2)",--form-bg,"rgba(255, 255, 255, 0.35)",1.15,FAIL,FAIL
+light,--back-btn-shadow-hover,"0 10px 24px rgba(0, 0, 0, 0.2)",--button-primary-bg,#8cc9f0,1.55,FAIL,FAIL
+light,--back-btn-shadow-hover,"0 10px 24px rgba(0, 0, 0, 0.2)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.15,FAIL,FAIL
+light,--back-btn-shadow-hover,"0 10px 24px rgba(0, 0, 0, 0.2)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.47,FAIL,FAIL
+light,--border-soft,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
+light,--border-soft,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--border-soft,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--border-soft,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--border-soft,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--box-border-color,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
+light,--box-border-color,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--box-border-color,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--box-border-color,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--box-border-color,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--button-active-bg,"rgba(255, 255, 255, 0.2)",--main-background-color,#935d8c,1.47,FAIL,FAIL
+light,--button-active-bg,"rgba(255, 255, 255, 0.2)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--button-active-bg,"rgba(255, 255, 255, 0.2)",--button-primary-bg,#8cc9f0,1.13,FAIL,FAIL
+light,--button-active-bg,"rgba(255, 255, 255, 0.2)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--button-active-bg,"rgba(255, 255, 255, 0.2)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--button-bg,transparent,--main-background-color,#935d8c,1.00,FAIL,FAIL
+light,--button-bg,transparent,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--button-bg,transparent,--button-primary-bg,#8cc9f0,1.00,FAIL,FAIL
+light,--button-bg,transparent,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--button-bg,transparent,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--button-border,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
+light,--button-border,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--button-border,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--button-border,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--button-border,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--button-hover-bg,"rgba(255, 255, 255, 0.075)",--main-background-color,#935d8c,1.16,FAIL,FAIL
+light,--button-hover-bg,"rgba(255, 255, 255, 0.075)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--button-hover-bg,"rgba(255, 255, 255, 0.075)",--button-primary-bg,#8cc9f0,1.05,FAIL,FAIL
+light,--button-hover-bg,"rgba(255, 255, 255, 0.075)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--button-hover-bg,"rgba(255, 255, 255, 0.075)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--button-icon,"rgba(255, 255, 255, 0.5)",--main-background-color,#935d8c,2.47,FAIL,FAIL
+light,--button-icon,"rgba(255, 255, 255, 0.5)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--button-icon,"rgba(255, 255, 255, 0.5)",--button-primary-bg,#8cc9f0,1.35,FAIL,FAIL
+light,--button-icon,"rgba(255, 255, 255, 0.5)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--button-icon,"rgba(255, 255, 255, 0.5)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--button-primary-active-bg,#7ec3ee,--main-background-color,#935d8c,2.61,FAIL,FAIL
+light,--button-primary-active-bg,#7ec3ee,--form-bg,"rgba(255, 255, 255, 0.35)",1.35,FAIL,FAIL
+light,--button-primary-active-bg,#7ec3ee,--button-primary-bg,#8cc9f0,1.07,FAIL,FAIL
+light,--button-primary-active-bg,#7ec3ee,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.35,FAIL,FAIL
+light,--button-primary-active-bg,#7ec3ee,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.69,FAIL,FAIL
+light,--button-primary-bg,#8cc9f0,--main-background-color,#935d8c,2.80,FAIL,FAIL
+light,--button-primary-bg,#8cc9f0,--form-bg,"rgba(255, 255, 255, 0.35)",1.45,FAIL,FAIL
+light,--button-primary-bg,#8cc9f0,--button-primary-bg,#8cc9f0,1.00,FAIL,FAIL
+light,--button-primary-bg,#8cc9f0,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.45,FAIL,FAIL
+light,--button-primary-bg,#8cc9f0,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.58,FAIL,FAIL
+light,--button-primary-hover-bg,#9acff2,--main-background-color,#935d8c,3.01,FAIL,FAIL
+light,--button-primary-hover-bg,#9acff2,--form-bg,"rgba(255, 255, 255, 0.35)",1.56,FAIL,FAIL
+light,--button-primary-hover-bg,#9acff2,--button-primary-bg,#8cc9f0,1.07,FAIL,FAIL
+light,--button-primary-hover-bg,#9acff2,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.56,FAIL,FAIL
+light,--button-primary-hover-bg,#9acff2,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.47,FAIL,FAIL
+light,--button-primary-text,#083040,--main-background-color,#935d8c,2.78,FAIL,FAIL
+light,--button-primary-text,#083040,--form-bg,"rgba(255, 255, 255, 0.35)",5.36,PASS,FAIL
+light,--button-primary-text,#083040,--button-primary-bg,#8cc9f0,7.78,PASS,PASS
+light,--button-primary-text,#083040,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",5.36,PASS,FAIL
+light,--button-primary-text,#083040,--back-btn-bg,"rgba(255, 255, 255, 0.9)",12.27,PASS,PASS
+light,--button-text,#ffffff,--main-background-color,#935d8c,5.02,PASS,FAIL
+light,--button-text,#ffffff,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--button-text,#ffffff,--button-primary-bg,#8cc9f0,1.79,FAIL,FAIL
+light,--button-text,#ffffff,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--button-text,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--code-bg,"rgba(255, 255, 255, 0.075)",--main-background-color,#935d8c,1.16,FAIL,FAIL
+light,--code-bg,"rgba(255, 255, 255, 0.075)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--code-bg,"rgba(255, 255, 255, 0.075)",--button-primary-bg,#8cc9f0,1.05,FAIL,FAIL
+light,--code-bg,"rgba(255, 255, 255, 0.075)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--code-bg,"rgba(255, 255, 255, 0.075)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--dl-title,#ffffff,--main-background-color,#935d8c,5.02,PASS,FAIL
+light,--dl-title,#ffffff,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--dl-title,#ffffff,--button-primary-bg,#8cc9f0,1.79,FAIL,FAIL
+light,--dl-title,#ffffff,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--dl-title,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--form-bg,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
+light,--form-bg,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--form-bg,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--form-bg,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--form-bg,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--form-border,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
+light,--form-border,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--form-border,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--form-border,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--form-border,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--form-check-active-bg,#ffffff,--main-background-color,#935d8c,5.02,PASS,FAIL
+light,--form-check-active-bg,#ffffff,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--form-check-active-bg,#ffffff,--button-primary-bg,#8cc9f0,1.79,FAIL,FAIL
+light,--form-check-active-bg,#ffffff,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--form-check-active-bg,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--form-check-active-text,#935d8c,--main-background-color,#935d8c,1.00,FAIL,FAIL
+light,--form-check-active-text,#935d8c,--form-bg,"rgba(255, 255, 255, 0.35)",1.93,FAIL,FAIL
+light,--form-check-active-text,#935d8c,--button-primary-bg,#8cc9f0,2.80,FAIL,FAIL
+light,--form-check-active-text,#935d8c,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.93,FAIL,FAIL
+light,--form-check-active-text,#935d8c,--back-btn-bg,"rgba(255, 255, 255, 0.9)",4.42,FAIL,FAIL
+light,--form-check-bg,"rgba(255, 255, 255, 0.075)",--main-background-color,#935d8c,1.16,FAIL,FAIL
+light,--form-check-bg,"rgba(255, 255, 255, 0.075)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--form-check-bg,"rgba(255, 255, 255, 0.075)",--button-primary-bg,#8cc9f0,1.05,FAIL,FAIL
+light,--form-check-bg,"rgba(255, 255, 255, 0.075)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--form-check-bg,"rgba(255, 255, 255, 0.075)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--form-check-border,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
+light,--form-check-border,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--form-check-border,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--form-check-border,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--form-check-border,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--form-focus,#8cc9f0,--main-background-color,#935d8c,2.80,FAIL,FAIL
+light,--form-focus,#8cc9f0,--form-bg,"rgba(255, 255, 255, 0.35)",1.45,FAIL,FAIL
+light,--form-focus,#8cc9f0,--button-primary-bg,#8cc9f0,1.00,FAIL,FAIL
+light,--form-focus,#8cc9f0,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.45,FAIL,FAIL
+light,--form-focus,#8cc9f0,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.58,FAIL,FAIL
+light,--form-label,#ffffff,--main-background-color,#935d8c,5.02,PASS,FAIL
+light,--form-label,#ffffff,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--form-label,#ffffff,--button-primary-bg,#8cc9f0,1.79,FAIL,FAIL
+light,--form-label,#ffffff,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--form-label,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--form-placeholder,"rgba(255, 255, 255, 0.5)",--main-background-color,#935d8c,2.47,FAIL,FAIL
+light,--form-placeholder,"rgba(255, 255, 255, 0.5)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--form-placeholder,"rgba(255, 255, 255, 0.5)",--button-primary-bg,#8cc9f0,1.35,FAIL,FAIL
+light,--form-placeholder,"rgba(255, 255, 255, 0.5)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--form-placeholder,"rgba(255, 255, 255, 0.5)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--form-select-arrow,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
+light,--form-select-arrow,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--form-select-arrow,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--form-select-arrow,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--form-select-arrow,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--form-select-option-bg,#935d8c,--main-background-color,#935d8c,1.00,FAIL,FAIL
+light,--form-select-option-bg,#935d8c,--form-bg,"rgba(255, 255, 255, 0.35)",1.93,FAIL,FAIL
+light,--form-select-option-bg,#935d8c,--button-primary-bg,#8cc9f0,2.80,FAIL,FAIL
+light,--form-select-option-bg,#935d8c,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.93,FAIL,FAIL
+light,--form-select-option-bg,#935d8c,--back-btn-bg,"rgba(255, 255, 255, 0.9)",4.42,FAIL,FAIL
+light,--form-select-option-text,#ffffff,--main-background-color,#935d8c,5.02,PASS,FAIL
+light,--form-select-option-text,#ffffff,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--form-select-option-text,#ffffff,--button-primary-bg,#8cc9f0,1.79,FAIL,FAIL
+light,--form-select-option-text,#ffffff,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--form-select-option-text,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--form-text,#083040,--main-background-color,#935d8c,2.78,FAIL,FAIL
+light,--form-text,#083040,--form-bg,"rgba(255, 255, 255, 0.35)",5.36,PASS,FAIL
+light,--form-text,#083040,--button-primary-bg,#8cc9f0,7.78,PASS,PASS
+light,--form-text,#083040,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",5.36,PASS,FAIL
+light,--form-text,#083040,--back-btn-bg,"rgba(255, 255, 255, 0.9)",12.27,PASS,PASS
+light,--header-divider,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
+light,--header-divider,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--header-divider,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--header-divider,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--header-divider,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--icon-alt-active-bg,"rgba(255, 255, 255, 0.2)",--main-background-color,#935d8c,1.47,FAIL,FAIL
+light,--icon-alt-active-bg,"rgba(255, 255, 255, 0.2)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--icon-alt-active-bg,"rgba(255, 255, 255, 0.2)",--button-primary-bg,#8cc9f0,1.13,FAIL,FAIL
+light,--icon-alt-active-bg,"rgba(255, 255, 255, 0.2)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--icon-alt-active-bg,"rgba(255, 255, 255, 0.2)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.075)",--main-background-color,#935d8c,1.16,FAIL,FAIL
+light,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.075)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.075)",--button-primary-bg,#8cc9f0,1.05,FAIL,FAIL
+light,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.075)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.075)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--icon-alt-text,#ffffff,--main-background-color,#935d8c,5.02,PASS,FAIL
+light,--icon-alt-text,#ffffff,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--icon-alt-text,#ffffff,--button-primary-bg,#8cc9f0,1.79,FAIL,FAIL
+light,--icon-alt-text,#ffffff,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--icon-alt-text,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--icon-border,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
+light,--icon-border,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--icon-border,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--icon-border,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--icon-border,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--icon-style1,#efa8b0,--main-background-color,#935d8c,2.60,FAIL,FAIL
+light,--icon-style1,#efa8b0,--form-bg,"rgba(255, 255, 255, 0.35)",1.35,FAIL,FAIL
+light,--icon-style1,#efa8b0,--button-primary-bg,#8cc9f0,1.08,FAIL,FAIL
+light,--icon-style1,#efa8b0,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.35,FAIL,FAIL
+light,--icon-style1,#efa8b0,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.70,FAIL,FAIL
+light,--icon-style2,#c79cc8,--main-background-color,#935d8c,2.15,FAIL,FAIL
+light,--icon-style2,#c79cc8,--form-bg,"rgba(255, 255, 255, 0.35)",1.12,FAIL,FAIL
+light,--icon-style2,#c79cc8,--button-primary-bg,#8cc9f0,1.30,FAIL,FAIL
+light,--icon-style2,#c79cc8,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.12,FAIL,FAIL
+light,--icon-style2,#c79cc8,--back-btn-bg,"rgba(255, 255, 255, 0.9)",2.05,FAIL,FAIL
+light,--icon-style3,#a89cc8,--main-background-color,#935d8c,1.97,FAIL,FAIL
+light,--icon-style3,#a89cc8,--form-bg,"rgba(255, 255, 255, 0.35)",1.02,FAIL,FAIL
+light,--icon-style3,#a89cc8,--button-primary-bg,#8cc9f0,1.42,FAIL,FAIL
+light,--icon-style3,#a89cc8,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.02,FAIL,FAIL
+light,--icon-style3,#a89cc8,--back-btn-bg,"rgba(255, 255, 255, 0.9)",2.24,FAIL,FAIL
+light,--icon-style4,#9bb2e1,--main-background-color,#935d8c,2.35,FAIL,FAIL
+light,--icon-style4,#9bb2e1,--form-bg,"rgba(255, 255, 255, 0.35)",1.22,FAIL,FAIL
+light,--icon-style4,#9bb2e1,--button-primary-bg,#8cc9f0,1.19,FAIL,FAIL
+light,--icon-style4,#9bb2e1,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.22,FAIL,FAIL
+light,--icon-style4,#9bb2e1,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.88,FAIL,FAIL
+light,--icon-style5,#8cc9f0,--main-background-color,#935d8c,2.80,FAIL,FAIL
+light,--icon-style5,#8cc9f0,--form-bg,"rgba(255, 255, 255, 0.35)",1.45,FAIL,FAIL
+light,--icon-style5,#8cc9f0,--button-primary-bg,#8cc9f0,1.00,FAIL,FAIL
+light,--icon-style5,#8cc9f0,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.45,FAIL,FAIL
+light,--icon-style5,#8cc9f0,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.58,FAIL,FAIL
+light,--link-hover,#ffffff,--main-background-color,#935d8c,5.02,PASS,FAIL
+light,--link-hover,#ffffff,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--link-hover,#ffffff,--button-primary-bg,#8cc9f0,1.79,FAIL,FAIL
+light,--link-hover,#ffffff,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--link-hover,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--list-divider,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
+light,--list-divider,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--list-divider,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--list-divider,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--list-divider,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--main-background-color,#935d8c,--main-background-color,#935d8c,1.00,FAIL,FAIL
+light,--main-background-color,#935d8c,--form-bg,"rgba(255, 255, 255, 0.35)",1.93,FAIL,FAIL
+light,--main-background-color,#935d8c,--button-primary-bg,#8cc9f0,2.80,FAIL,FAIL
+light,--main-background-color,#935d8c,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.93,FAIL,FAIL
+light,--main-background-color,#935d8c,--back-btn-bg,"rgba(255, 255, 255, 0.9)",4.42,FAIL,FAIL
+light,--main-background-image-grad-end,#5f4d93,--main-background-color,#935d8c,1.41,FAIL,FAIL
+light,--main-background-image-grad-end,#5f4d93,--form-bg,"rgba(255, 255, 255, 0.35)",2.72,FAIL,FAIL
+light,--main-background-image-grad-end,#5f4d93,--button-primary-bg,#8cc9f0,3.95,FAIL,FAIL
+light,--main-background-image-grad-end,#5f4d93,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.72,FAIL,FAIL
+light,--main-background-image-grad-end,#5f4d93,--back-btn-bg,"rgba(255, 255, 255, 0.9)",6.23,PASS,FAIL
+light,--main-background-image-grad-start,#e37682,--main-background-color,#935d8c,1.72,FAIL,FAIL
+light,--main-background-image-grad-start,#e37682,--form-bg,"rgba(255, 255, 255, 0.35)",1.13,FAIL,FAIL
+light,--main-background-image-grad-start,#e37682,--button-primary-bg,#8cc9f0,1.63,FAIL,FAIL
+light,--main-background-image-grad-start,#e37682,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.13,FAIL,FAIL
+light,--main-background-image-grad-start,#e37682,--back-btn-bg,"rgba(255, 255, 255, 0.9)",2.58,FAIL,FAIL
+light,--select-focus-bg,transparent,--main-background-color,#935d8c,1.00,FAIL,FAIL
+light,--select-focus-bg,transparent,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--select-focus-bg,transparent,--button-primary-bg,#8cc9f0,1.00,FAIL,FAIL
+light,--select-focus-bg,transparent,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--select-focus-bg,transparent,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--spotlight-image-border,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
+light,--spotlight-image-border,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--spotlight-image-border,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--spotlight-image-border,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--spotlight-image-border,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--stats-style1-bg,#efa8b0,--main-background-color,#935d8c,2.60,FAIL,FAIL
+light,--stats-style1-bg,#efa8b0,--form-bg,"rgba(255, 255, 255, 0.35)",1.35,FAIL,FAIL
+light,--stats-style1-bg,#efa8b0,--button-primary-bg,#8cc9f0,1.08,FAIL,FAIL
+light,--stats-style1-bg,#efa8b0,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.35,FAIL,FAIL
+light,--stats-style1-bg,#efa8b0,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.70,FAIL,FAIL
+light,--stats-style2-bg,#c79cc8,--main-background-color,#935d8c,2.15,FAIL,FAIL
+light,--stats-style2-bg,#c79cc8,--form-bg,"rgba(255, 255, 255, 0.35)",1.12,FAIL,FAIL
+light,--stats-style2-bg,#c79cc8,--button-primary-bg,#8cc9f0,1.30,FAIL,FAIL
+light,--stats-style2-bg,#c79cc8,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.12,FAIL,FAIL
+light,--stats-style2-bg,#c79cc8,--back-btn-bg,"rgba(255, 255, 255, 0.9)",2.05,FAIL,FAIL
+light,--stats-style3-bg,#a89cc8,--main-background-color,#935d8c,1.97,FAIL,FAIL
+light,--stats-style3-bg,#a89cc8,--form-bg,"rgba(255, 255, 255, 0.35)",1.02,FAIL,FAIL
+light,--stats-style3-bg,#a89cc8,--button-primary-bg,#8cc9f0,1.42,FAIL,FAIL
+light,--stats-style3-bg,#a89cc8,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.02,FAIL,FAIL
+light,--stats-style3-bg,#a89cc8,--back-btn-bg,"rgba(255, 255, 255, 0.9)",2.24,FAIL,FAIL
+light,--stats-style4-bg,#9bb2e1,--main-background-color,#935d8c,2.35,FAIL,FAIL
+light,--stats-style4-bg,#9bb2e1,--form-bg,"rgba(255, 255, 255, 0.35)",1.22,FAIL,FAIL
+light,--stats-style4-bg,#9bb2e1,--button-primary-bg,#8cc9f0,1.19,FAIL,FAIL
+light,--stats-style4-bg,#9bb2e1,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.22,FAIL,FAIL
+light,--stats-style4-bg,#9bb2e1,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.88,FAIL,FAIL
+light,--stats-style5-bg,#8cc9f0,--main-background-color,#935d8c,2.80,FAIL,FAIL
+light,--stats-style5-bg,#8cc9f0,--form-bg,"rgba(255, 255, 255, 0.35)",1.45,FAIL,FAIL
+light,--stats-style5-bg,#8cc9f0,--button-primary-bg,#8cc9f0,1.00,FAIL,FAIL
+light,--stats-style5-bg,#8cc9f0,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.45,FAIL,FAIL
+light,--stats-style5-bg,#8cc9f0,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.58,FAIL,FAIL
+light,--stats-text-color,#ffffff,--main-background-color,#935d8c,5.02,PASS,FAIL
+light,--stats-text-color,#ffffff,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--stats-text-color,#ffffff,--button-primary-bg,#8cc9f0,1.79,FAIL,FAIL
+light,--stats-text-color,#ffffff,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--stats-text-color,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--table-border,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
+light,--table-border,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--table-border,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--table-border,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--table-border,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--table-header-text,#ffffff,--main-background-color,#935d8c,5.02,PASS,FAIL
+light,--table-header-text,#ffffff,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--table-header-text,#ffffff,--button-primary-bg,#8cc9f0,1.79,FAIL,FAIL
+light,--table-header-text,#ffffff,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--table-header-text,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--table-row-alt-bg,"rgba(255, 255, 255, 0.075)",--main-background-color,#935d8c,1.16,FAIL,FAIL
+light,--table-row-alt-bg,"rgba(255, 255, 255, 0.075)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--table-row-alt-bg,"rgba(255, 255, 255, 0.075)",--button-primary-bg,#8cc9f0,1.05,FAIL,FAIL
+light,--table-row-alt-bg,"rgba(255, 255, 255, 0.075)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--table-row-alt-bg,"rgba(255, 255, 255, 0.075)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--text-primary,#ffffff,--main-background-color,#935d8c,5.02,PASS,FAIL
+light,--text-primary,#ffffff,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--text-primary,#ffffff,--button-primary-bg,#8cc9f0,1.79,FAIL,FAIL
+light,--text-primary,#ffffff,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--text-primary,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--text-secondary,"rgba(255, 255, 255, 0.95)",--main-background-color,#935d8c,4.72,PASS,FAIL
+light,--text-secondary,"rgba(255, 255, 255, 0.95)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--text-secondary,"rgba(255, 255, 255, 0.95)",--button-primary-bg,#8cc9f0,1.74,FAIL,FAIL
+light,--text-secondary,"rgba(255, 255, 255, 0.95)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--text-secondary,"rgba(255, 255, 255, 0.95)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
+light,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--theme-toggle-border,"rgba(255, 255, 255, 0.3)",--main-background-color,#935d8c,1.77,FAIL,FAIL
+light,--theme-toggle-border,"rgba(255, 255, 255, 0.3)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--theme-toggle-border,"rgba(255, 255, 255, 0.3)",--button-primary-bg,#8cc9f0,1.20,FAIL,FAIL
+light,--theme-toggle-border,"rgba(255, 255, 255, 0.3)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--theme-toggle-border,"rgba(255, 255, 255, 0.3)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--theme-toggle-color,#083040,--main-background-color,#935d8c,2.78,FAIL,FAIL
+light,--theme-toggle-color,#083040,--form-bg,"rgba(255, 255, 255, 0.35)",5.36,PASS,FAIL
+light,--theme-toggle-color,#083040,--button-primary-bg,#8cc9f0,7.78,PASS,PASS
+light,--theme-toggle-color,#083040,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",5.36,PASS,FAIL
+light,--theme-toggle-color,#083040,--back-btn-bg,"rgba(255, 255, 255, 0.9)",12.27,PASS,PASS
+light,--theme-toggle-shadow,"0 4px 14px rgba(0, 0, 0, 0.3)",--main-background-color,#935d8c,1.67,FAIL,FAIL
+light,--theme-toggle-shadow,"0 4px 14px rgba(0, 0, 0, 0.3)",--form-bg,"rgba(255, 255, 255, 0.35)",1.83,FAIL,FAIL
+light,--theme-toggle-shadow,"0 4px 14px rgba(0, 0, 0, 0.3)",--button-primary-bg,#8cc9f0,1.99,FAIL,FAIL
+light,--theme-toggle-shadow,"0 4px 14px rgba(0, 0, 0, 0.3)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.83,FAIL,FAIL
+light,--theme-toggle-shadow,"0 4px 14px rgba(0, 0, 0, 0.3)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.98,FAIL,FAIL
+dark,--alt-class-contain-color,"rgba(255, 255, 255, 0.72)",--main-background-color,#0f1220,9.92,PASS,PASS
+dark,--alt-class-contain-color,"rgba(255, 255, 255, 0.72)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--alt-class-contain-color,"rgba(255, 255, 255, 0.72)",--button-primary-bg,#4da3d9,2.13,FAIL,FAIL
+dark,--alt-class-contain-color,"rgba(255, 255, 255, 0.72)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",10.66,PASS,PASS
+dark,--alt-class-contain-color,"rgba(255, 255, 255, 0.72)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",9.43,PASS,PASS
+dark,--back-btn-bg,"rgba(30, 30, 35, 0.95)",--main-background-color,#0f1220,1.11,FAIL,FAIL
+dark,--back-btn-bg,"rgba(30, 30, 35, 0.95)",--form-bg,"rgba(255, 255, 255, 0.06)",1.01,FAIL,FAIL
+dark,--back-btn-bg,"rgba(30, 30, 35, 0.95)",--button-primary-bg,#4da3d9,5.55,PASS,FAIL
+dark,--back-btn-bg,"rgba(30, 30, 35, 0.95)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.11,FAIL,FAIL
+dark,--back-btn-bg,"rgba(30, 30, 35, 0.95)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.01,FAIL,FAIL
+dark,--back-btn-color,#ffffff,--main-background-color,#0f1220,18.62,PASS,PASS
+dark,--back-btn-color,#ffffff,--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--back-btn-color,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
+dark,--back-btn-color,#ffffff,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",18.38,PASS,PASS
+dark,--back-btn-color,#ffffff,--back-btn-bg,"rgba(30, 30, 35, 0.95)",16.77,PASS,PASS
+dark,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.5)",--main-background-color,#0f1220,1.07,FAIL,FAIL
+dark,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.5)",--form-bg,"rgba(255, 255, 255, 0.06)",1.19,FAIL,FAIL
+dark,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.5)",--button-primary-bg,#4da3d9,3.02,FAIL,FAIL
+dark,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.5)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.08,FAIL,FAIL
+dark,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.5)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.14,FAIL,FAIL
+dark,--back-btn-shadow-hover,"0 10px 28px rgba(0, 0, 0, 0.7)",--main-background-color,#0f1220,1.09,FAIL,FAIL
+dark,--back-btn-shadow-hover,"0 10px 28px rgba(0, 0, 0, 0.7)",--form-bg,"rgba(255, 255, 255, 0.06)",1.25,FAIL,FAIL
+dark,--back-btn-shadow-hover,"0 10px 28px rgba(0, 0, 0, 0.7)",--button-primary-bg,#4da3d9,4.87,PASS,FAIL
+dark,--back-btn-shadow-hover,"0 10px 28px rgba(0, 0, 0, 0.7)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.11,FAIL,FAIL
+dark,--back-btn-shadow-hover,"0 10px 28px rgba(0, 0, 0, 0.7)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.19,FAIL,FAIL
+dark,--border-soft,"rgba(255, 255, 255, 0.18)",--main-background-color,#0f1220,1.72,FAIL,FAIL
+dark,--border-soft,"rgba(255, 255, 255, 0.18)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--border-soft,"rgba(255, 255, 255, 0.18)",--button-primary-bg,#4da3d9,1.22,FAIL,FAIL
+dark,--border-soft,"rgba(255, 255, 255, 0.18)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.90,FAIL,FAIL
+dark,--border-soft,"rgba(255, 255, 255, 0.18)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.84,FAIL,FAIL
+dark,--box-border-color,"rgba(255, 255, 255, 0.18)",--main-background-color,#0f1220,1.72,FAIL,FAIL
+dark,--box-border-color,"rgba(255, 255, 255, 0.18)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--box-border-color,"rgba(255, 255, 255, 0.18)",--button-primary-bg,#4da3d9,1.22,FAIL,FAIL
+dark,--box-border-color,"rgba(255, 255, 255, 0.18)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.90,FAIL,FAIL
+dark,--box-border-color,"rgba(255, 255, 255, 0.18)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.84,FAIL,FAIL
+dark,--button-active-bg,"rgba(255, 255, 255, 0.12)",--main-background-color,#0f1220,1.38,FAIL,FAIL
+dark,--button-active-bg,"rgba(255, 255, 255, 0.12)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--button-active-bg,"rgba(255, 255, 255, 0.12)",--button-primary-bg,#4da3d9,1.14,FAIL,FAIL
+dark,--button-active-bg,"rgba(255, 255, 255, 0.12)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.48,FAIL,FAIL
+dark,--button-active-bg,"rgba(255, 255, 255, 0.12)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.48,FAIL,FAIL
+dark,--button-bg,transparent,--main-background-color,#0f1220,1.00,FAIL,FAIL
+dark,--button-bg,transparent,--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--button-bg,transparent,--button-primary-bg,#4da3d9,1.00,FAIL,FAIL
+dark,--button-bg,transparent,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.00,FAIL,FAIL
+dark,--button-bg,transparent,--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.01,FAIL,FAIL
+dark,--button-border,"rgba(255, 255, 255, 0.18)",--main-background-color,#0f1220,1.72,FAIL,FAIL
+dark,--button-border,"rgba(255, 255, 255, 0.18)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--button-border,"rgba(255, 255, 255, 0.18)",--button-primary-bg,#4da3d9,1.22,FAIL,FAIL
+dark,--button-border,"rgba(255, 255, 255, 0.18)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.90,FAIL,FAIL
+dark,--button-border,"rgba(255, 255, 255, 0.18)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.84,FAIL,FAIL
+dark,--button-hover-bg,"rgba(255, 255, 255, 0.06)",--main-background-color,#0f1220,1.15,FAIL,FAIL
+dark,--button-hover-bg,"rgba(255, 255, 255, 0.06)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--button-hover-bg,"rgba(255, 255, 255, 0.06)",--button-primary-bg,#4da3d9,1.07,FAIL,FAIL
+dark,--button-hover-bg,"rgba(255, 255, 255, 0.06)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.19,FAIL,FAIL
+dark,--button-hover-bg,"rgba(255, 255, 255, 0.06)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.21,FAIL,FAIL
+dark,--button-icon,"rgba(255, 255, 255, 0.45)",--main-background-color,#0f1220,4.53,PASS,FAIL
+dark,--button-icon,"rgba(255, 255, 255, 0.45)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--button-icon,"rgba(255, 255, 255, 0.45)",--button-primary-bg,#4da3d9,1.62,FAIL,FAIL
+dark,--button-icon,"rgba(255, 255, 255, 0.45)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",5.13,PASS,FAIL
+dark,--button-icon,"rgba(255, 255, 255, 0.45)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",4.62,PASS,FAIL
+dark,--button-primary-active-bg,#3f95cc,--main-background-color,#0f1220,5.66,PASS,FAIL
+dark,--button-primary-active-bg,#3f95cc,--form-bg,"rgba(255, 255, 255, 0.06)",4.92,PASS,FAIL
+dark,--button-primary-active-bg,#3f95cc,--button-primary-bg,#4da3d9,1.18,FAIL,FAIL
+dark,--button-primary-active-bg,#3f95cc,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",5.59,PASS,FAIL
+dark,--button-primary-active-bg,#3f95cc,--back-btn-bg,"rgba(30, 30, 35, 0.95)",5.10,PASS,FAIL
+dark,--button-primary-bg,#4da3d9,--main-background-color,#0f1220,6.70,PASS,FAIL
+dark,--button-primary-bg,#4da3d9,--form-bg,"rgba(255, 255, 255, 0.06)",5.83,PASS,FAIL
+dark,--button-primary-bg,#4da3d9,--button-primary-bg,#4da3d9,1.00,FAIL,FAIL
+dark,--button-primary-bg,#4da3d9,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",6.61,PASS,FAIL
+dark,--button-primary-bg,#4da3d9,--back-btn-bg,"rgba(30, 30, 35, 0.95)",6.03,PASS,FAIL
+dark,--button-primary-hover-bg,#5aaae0,--main-background-color,#0f1220,7.33,PASS,PASS
+dark,--button-primary-hover-bg,#5aaae0,--form-bg,"rgba(255, 255, 255, 0.06)",6.37,PASS,FAIL
+dark,--button-primary-hover-bg,#5aaae0,--button-primary-bg,#4da3d9,1.09,FAIL,FAIL
+dark,--button-primary-hover-bg,#5aaae0,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",7.23,PASS,PASS
+dark,--button-primary-hover-bg,#5aaae0,--back-btn-bg,"rgba(30, 30, 35, 0.95)",6.60,PASS,FAIL
+dark,--button-primary-text,#083040,--main-background-color,#0f1220,1.34,FAIL,FAIL
+dark,--button-primary-text,#083040,--form-bg,"rgba(255, 255, 255, 0.06)",1.16,FAIL,FAIL
+dark,--button-primary-text,#083040,--button-primary-bg,#4da3d9,5.01,PASS,FAIL
+dark,--button-primary-text,#083040,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.32,FAIL,FAIL
+dark,--button-primary-text,#083040,--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.20,FAIL,FAIL
+dark,--button-text,#e6e6eb,--main-background-color,#0f1220,14.97,PASS,PASS
+dark,--button-text,#e6e6eb,--form-bg,"rgba(255, 255, 255, 0.06)",13.02,PASS,PASS
+dark,--button-text,#e6e6eb,--button-primary-bg,#4da3d9,2.23,FAIL,FAIL
+dark,--button-text,#e6e6eb,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",14.78,PASS,PASS
+dark,--button-text,#e6e6eb,--back-btn-bg,"rgba(30, 30, 35, 0.95)",13.48,PASS,PASS
+dark,--code-bg,"rgba(255, 255, 255, 0.08)",--main-background-color,#0f1220,1.22,FAIL,FAIL
+dark,--code-bg,"rgba(255, 255, 255, 0.08)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--code-bg,"rgba(255, 255, 255, 0.08)",--button-primary-bg,#4da3d9,1.09,FAIL,FAIL
+dark,--code-bg,"rgba(255, 255, 255, 0.08)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.29,FAIL,FAIL
+dark,--code-bg,"rgba(255, 255, 255, 0.08)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.29,FAIL,FAIL
+dark,--dl-title,#e6e6eb,--main-background-color,#0f1220,14.97,PASS,PASS
+dark,--dl-title,#e6e6eb,--form-bg,"rgba(255, 255, 255, 0.06)",13.02,PASS,PASS
+dark,--dl-title,#e6e6eb,--button-primary-bg,#4da3d9,2.23,FAIL,FAIL
+dark,--dl-title,#e6e6eb,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",14.78,PASS,PASS
+dark,--dl-title,#e6e6eb,--back-btn-bg,"rgba(30, 30, 35, 0.95)",13.48,PASS,PASS
+dark,--form-bg,"rgba(255, 255, 255, 0.06)",--main-background-color,#0f1220,1.15,FAIL,FAIL
+dark,--form-bg,"rgba(255, 255, 255, 0.06)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--form-bg,"rgba(255, 255, 255, 0.06)",--button-primary-bg,#4da3d9,1.07,FAIL,FAIL
+dark,--form-bg,"rgba(255, 255, 255, 0.06)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.19,FAIL,FAIL
+dark,--form-bg,"rgba(255, 255, 255, 0.06)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.21,FAIL,FAIL
+dark,--form-border,"rgba(255, 255, 255, 0.18)",--main-background-color,#0f1220,1.72,FAIL,FAIL
+dark,--form-border,"rgba(255, 255, 255, 0.18)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--form-border,"rgba(255, 255, 255, 0.18)",--button-primary-bg,#4da3d9,1.22,FAIL,FAIL
+dark,--form-border,"rgba(255, 255, 255, 0.18)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.90,FAIL,FAIL
+dark,--form-border,"rgba(255, 255, 255, 0.18)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.84,FAIL,FAIL
+dark,--form-check-active-bg,#ffffff,--main-background-color,#0f1220,18.62,PASS,PASS
+dark,--form-check-active-bg,#ffffff,--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--form-check-active-bg,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
+dark,--form-check-active-bg,#ffffff,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",18.38,PASS,PASS
+dark,--form-check-active-bg,#ffffff,--back-btn-bg,"rgba(30, 30, 35, 0.95)",16.77,PASS,PASS
+dark,--form-check-active-text,#1c1c1e,--main-background-color,#0f1220,1.09,FAIL,FAIL
+dark,--form-check-active-text,#1c1c1e,--form-bg,"rgba(255, 255, 255, 0.06)",1.05,FAIL,FAIL
+dark,--form-check-active-text,#1c1c1e,--button-primary-bg,#4da3d9,6.12,PASS,FAIL
+dark,--form-check-active-text,#1c1c1e,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.08,FAIL,FAIL
+dark,--form-check-active-text,#1c1c1e,--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.01,FAIL,FAIL
+dark,--form-check-bg,"rgba(255, 255, 255, 0.06)",--main-background-color,#0f1220,1.15,FAIL,FAIL
+dark,--form-check-bg,"rgba(255, 255, 255, 0.06)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--form-check-bg,"rgba(255, 255, 255, 0.06)",--button-primary-bg,#4da3d9,1.07,FAIL,FAIL
+dark,--form-check-bg,"rgba(255, 255, 255, 0.06)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.19,FAIL,FAIL
+dark,--form-check-bg,"rgba(255, 255, 255, 0.06)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.21,FAIL,FAIL
+dark,--form-check-border,"rgba(255, 255, 255, 0.18)",--main-background-color,#0f1220,1.72,FAIL,FAIL
+dark,--form-check-border,"rgba(255, 255, 255, 0.18)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--form-check-border,"rgba(255, 255, 255, 0.18)",--button-primary-bg,#4da3d9,1.22,FAIL,FAIL
+dark,--form-check-border,"rgba(255, 255, 255, 0.18)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.90,FAIL,FAIL
+dark,--form-check-border,"rgba(255, 255, 255, 0.18)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.84,FAIL,FAIL
+dark,--form-focus,#4da3d9,--main-background-color,#0f1220,6.70,PASS,FAIL
+dark,--form-focus,#4da3d9,--form-bg,"rgba(255, 255, 255, 0.06)",5.83,PASS,FAIL
+dark,--form-focus,#4da3d9,--button-primary-bg,#4da3d9,1.00,FAIL,FAIL
+dark,--form-focus,#4da3d9,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",6.61,PASS,FAIL
+dark,--form-focus,#4da3d9,--back-btn-bg,"rgba(30, 30, 35, 0.95)",6.03,PASS,FAIL
+dark,--form-label,#e6e6eb,--main-background-color,#0f1220,14.97,PASS,PASS
+dark,--form-label,#e6e6eb,--form-bg,"rgba(255, 255, 255, 0.06)",13.02,PASS,PASS
+dark,--form-label,#e6e6eb,--button-primary-bg,#4da3d9,2.23,FAIL,FAIL
+dark,--form-label,#e6e6eb,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",14.78,PASS,PASS
+dark,--form-label,#e6e6eb,--back-btn-bg,"rgba(30, 30, 35, 0.95)",13.48,PASS,PASS
+dark,--form-placeholder,"rgba(235, 235, 245, 0.45)",--main-background-color,#0f1220,4.01,FAIL,FAIL
+dark,--form-placeholder,"rgba(235, 235, 245, 0.45)",--form-bg,"rgba(255, 255, 255, 0.06)",13.80,PASS,PASS
+dark,--form-placeholder,"rgba(235, 235, 245, 0.45)",--button-primary-bg,#4da3d9,1.48,FAIL,FAIL
+dark,--form-placeholder,"rgba(235, 235, 245, 0.45)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",4.50,PASS,FAIL
+dark,--form-placeholder,"rgba(235, 235, 245, 0.45)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",4.10,FAIL,FAIL
+dark,--form-select-arrow,"rgba(255, 255, 255, 0.3)",--main-background-color,#0f1220,2.67,FAIL,FAIL
+dark,--form-select-arrow,"rgba(255, 255, 255, 0.3)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--form-select-arrow,"rgba(255, 255, 255, 0.3)",--button-primary-bg,#4da3d9,1.39,FAIL,FAIL
+dark,--form-select-arrow,"rgba(255, 255, 255, 0.3)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",3.07,FAIL,FAIL
+dark,--form-select-arrow,"rgba(255, 255, 255, 0.3)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",2.84,FAIL,FAIL
+dark,--form-select-option-bg,#1c1c1e,--main-background-color,#0f1220,1.09,FAIL,FAIL
+dark,--form-select-option-bg,#1c1c1e,--form-bg,"rgba(255, 255, 255, 0.06)",1.05,FAIL,FAIL
+dark,--form-select-option-bg,#1c1c1e,--button-primary-bg,#4da3d9,6.12,PASS,FAIL
+dark,--form-select-option-bg,#1c1c1e,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.08,FAIL,FAIL
+dark,--form-select-option-bg,#1c1c1e,--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.01,FAIL,FAIL
+dark,--form-select-option-text,#ffffff,--main-background-color,#0f1220,18.62,PASS,PASS
+dark,--form-select-option-text,#ffffff,--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--form-select-option-text,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
+dark,--form-select-option-text,#ffffff,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",18.38,PASS,PASS
+dark,--form-select-option-text,#ffffff,--back-btn-bg,"rgba(30, 30, 35, 0.95)",16.77,PASS,PASS
+dark,--form-text,"rgba(235, 235, 245, 0.6)",--main-background-color,#0f1220,6.19,PASS,FAIL
+dark,--form-text,"rgba(235, 235, 245, 0.6)",--form-bg,"rgba(255, 255, 255, 0.06)",13.79,PASS,PASS
+dark,--form-text,"rgba(235, 235, 245, 0.6)",--button-primary-bg,#4da3d9,1.69,FAIL,FAIL
+dark,--form-text,"rgba(235, 235, 245, 0.6)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",6.83,PASS,FAIL
+dark,--form-text,"rgba(235, 235, 245, 0.6)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",6.15,PASS,FAIL
+dark,--header-divider,"rgba(255, 255, 255, 0.18)",--main-background-color,#0f1220,1.72,FAIL,FAIL
+dark,--header-divider,"rgba(255, 255, 255, 0.18)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--header-divider,"rgba(255, 255, 255, 0.18)",--button-primary-bg,#4da3d9,1.22,FAIL,FAIL
+dark,--header-divider,"rgba(255, 255, 255, 0.18)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.90,FAIL,FAIL
+dark,--header-divider,"rgba(255, 255, 255, 0.18)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.84,FAIL,FAIL
+dark,--icon-alt-active-bg,"rgba(255, 255, 255, 0.12)",--main-background-color,#0f1220,1.38,FAIL,FAIL
+dark,--icon-alt-active-bg,"rgba(255, 255, 255, 0.12)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--icon-alt-active-bg,"rgba(255, 255, 255, 0.12)",--button-primary-bg,#4da3d9,1.14,FAIL,FAIL
+dark,--icon-alt-active-bg,"rgba(255, 255, 255, 0.12)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.48,FAIL,FAIL
+dark,--icon-alt-active-bg,"rgba(255, 255, 255, 0.12)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.48,FAIL,FAIL
+dark,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.06)",--main-background-color,#0f1220,1.15,FAIL,FAIL
+dark,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.06)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.06)",--button-primary-bg,#4da3d9,1.07,FAIL,FAIL
+dark,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.06)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.19,FAIL,FAIL
+dark,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.06)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.21,FAIL,FAIL
+dark,--icon-alt-text,#e6e6eb,--main-background-color,#0f1220,14.97,PASS,PASS
+dark,--icon-alt-text,#e6e6eb,--form-bg,"rgba(255, 255, 255, 0.06)",13.02,PASS,PASS
+dark,--icon-alt-text,#e6e6eb,--button-primary-bg,#4da3d9,2.23,FAIL,FAIL
+dark,--icon-alt-text,#e6e6eb,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",14.78,PASS,PASS
+dark,--icon-alt-text,#e6e6eb,--back-btn-bg,"rgba(30, 30, 35, 0.95)",13.48,PASS,PASS
+dark,--icon-border,"rgba(255, 255, 255, 0.18)",--main-background-color,#0f1220,1.72,FAIL,FAIL
+dark,--icon-border,"rgba(255, 255, 255, 0.18)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--icon-border,"rgba(255, 255, 255, 0.18)",--button-primary-bg,#4da3d9,1.22,FAIL,FAIL
+dark,--icon-border,"rgba(255, 255, 255, 0.18)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.90,FAIL,FAIL
+dark,--icon-border,"rgba(255, 255, 255, 0.18)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.84,FAIL,FAIL
+dark,--icon-style1,#f2a6b1,--main-background-color,#0f1220,9.63,PASS,PASS
+dark,--icon-style1,#f2a6b1,--form-bg,"rgba(255, 255, 255, 0.06)",8.38,PASS,PASS
+dark,--icon-style1,#f2a6b1,--button-primary-bg,#4da3d9,1.44,FAIL,FAIL
+dark,--icon-style1,#f2a6b1,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",9.51,PASS,PASS
+dark,--icon-style1,#f2a6b1,--back-btn-bg,"rgba(30, 30, 35, 0.95)",8.68,PASS,PASS
+dark,--icon-style2,#d1a6d6,--main-background-color,#0f1220,8.99,PASS,PASS
+dark,--icon-style2,#d1a6d6,--form-bg,"rgba(255, 255, 255, 0.06)",7.82,PASS,PASS
+dark,--icon-style2,#d1a6d6,--button-primary-bg,#4da3d9,1.34,FAIL,FAIL
+dark,--icon-style2,#d1a6d6,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",8.87,PASS,PASS
+dark,--icon-style2,#d1a6d6,--back-btn-bg,"rgba(30, 30, 35, 0.95)",8.09,PASS,PASS
+dark,--icon-style3,#b7aad6,--main-background-color,#0f1220,8.63,PASS,PASS
+dark,--icon-style3,#b7aad6,--form-bg,"rgba(255, 255, 255, 0.06)",7.51,PASS,PASS
+dark,--icon-style3,#b7aad6,--button-primary-bg,#4da3d9,1.29,FAIL,FAIL
+dark,--icon-style3,#b7aad6,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",8.52,PASS,PASS
+dark,--icon-style3,#b7aad6,--back-btn-bg,"rgba(30, 30, 35, 0.95)",7.77,PASS,PASS
+dark,--icon-style4,#a9bde8,--main-background-color,#0f1220,9.87,PASS,PASS
+dark,--icon-style4,#a9bde8,--form-bg,"rgba(255, 255, 255, 0.06)",8.58,PASS,PASS
+dark,--icon-style4,#a9bde8,--button-primary-bg,#4da3d9,1.47,FAIL,FAIL
+dark,--icon-style4,#a9bde8,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",9.74,PASS,PASS
+dark,--icon-style4,#a9bde8,--back-btn-bg,"rgba(30, 30, 35, 0.95)",8.89,PASS,PASS
+dark,--icon-style5,#6fb6e8,--main-background-color,#0f1220,8.45,PASS,PASS
+dark,--icon-style5,#6fb6e8,--form-bg,"rgba(255, 255, 255, 0.06)",7.35,PASS,PASS
+dark,--icon-style5,#6fb6e8,--button-primary-bg,#4da3d9,1.26,FAIL,FAIL
+dark,--icon-style5,#6fb6e8,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",8.34,PASS,PASS
+dark,--icon-style5,#6fb6e8,--back-btn-bg,"rgba(30, 30, 35, 0.95)",7.61,PASS,PASS
+dark,--link-hover,#ffffff,--main-background-color,#0f1220,18.62,PASS,PASS
+dark,--link-hover,#ffffff,--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--link-hover,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
+dark,--link-hover,#ffffff,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",18.38,PASS,PASS
+dark,--link-hover,#ffffff,--back-btn-bg,"rgba(30, 30, 35, 0.95)",16.77,PASS,PASS
+dark,--list-divider,"rgba(255, 255, 255, 0.18)",--main-background-color,#0f1220,1.72,FAIL,FAIL
+dark,--list-divider,"rgba(255, 255, 255, 0.18)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--list-divider,"rgba(255, 255, 255, 0.18)",--button-primary-bg,#4da3d9,1.22,FAIL,FAIL
+dark,--list-divider,"rgba(255, 255, 255, 0.18)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.90,FAIL,FAIL
+dark,--list-divider,"rgba(255, 255, 255, 0.18)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.84,FAIL,FAIL
+dark,--main-background-color,#0f1220,--main-background-color,#0f1220,1.00,FAIL,FAIL
+dark,--main-background-color,#0f1220,--form-bg,"rgba(255, 255, 255, 0.06)",1.15,FAIL,FAIL
+dark,--main-background-color,#0f1220,--button-primary-bg,#4da3d9,6.70,PASS,FAIL
+dark,--main-background-color,#0f1220,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.01,FAIL,FAIL
+dark,--main-background-color,#0f1220,--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.11,FAIL,FAIL
+dark,--main-background-image-grad-end,#1b1f3b,--main-background-color,#0f1220,1.16,FAIL,FAIL
+dark,--main-background-image-grad-end,#1b1f3b,--form-bg,"rgba(255, 255, 255, 0.06)",1.01,FAIL,FAIL
+dark,--main-background-image-grad-end,#1b1f3b,--button-primary-bg,#4da3d9,5.79,PASS,FAIL
+dark,--main-background-image-grad-end,#1b1f3b,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.14,FAIL,FAIL
+dark,--main-background-image-grad-end,#1b1f3b,--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.04,FAIL,FAIL
+dark,--main-background-image-grad-start,#0b0e1a,--main-background-color,#0f1220,1.03,FAIL,FAIL
+dark,--main-background-image-grad-start,#0b0e1a,--form-bg,"rgba(255, 255, 255, 0.06)",1.19,FAIL,FAIL
+dark,--main-background-image-grad-start,#0b0e1a,--button-primary-bg,#4da3d9,6.92,PASS,FAIL
+dark,--main-background-image-grad-start,#0b0e1a,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.05,FAIL,FAIL
+dark,--main-background-image-grad-start,#0b0e1a,--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.15,FAIL,FAIL
+dark,--select-focus-bg,transparent,--main-background-color,#0f1220,1.00,FAIL,FAIL
+dark,--select-focus-bg,transparent,--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--select-focus-bg,transparent,--button-primary-bg,#4da3d9,1.00,FAIL,FAIL
+dark,--select-focus-bg,transparent,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.00,FAIL,FAIL
+dark,--select-focus-bg,transparent,--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.01,FAIL,FAIL
+dark,--spotlight-image-border,"rgba(255, 255, 255, 0.18)",--main-background-color,#0f1220,1.72,FAIL,FAIL
+dark,--spotlight-image-border,"rgba(255, 255, 255, 0.18)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--spotlight-image-border,"rgba(255, 255, 255, 0.18)",--button-primary-bg,#4da3d9,1.22,FAIL,FAIL
+dark,--spotlight-image-border,"rgba(255, 255, 255, 0.18)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.90,FAIL,FAIL
+dark,--spotlight-image-border,"rgba(255, 255, 255, 0.18)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.84,FAIL,FAIL
+dark,--stats-style1-bg,"color-mix(in srgb, #efa8b0 40%, #000)",--main-background-color,#0f1220,9.66,PASS,PASS
+dark,--stats-style1-bg,"color-mix(in srgb, #efa8b0 40%, #000)",--form-bg,"rgba(255, 255, 255, 0.06)",8.40,PASS,PASS
+dark,--stats-style1-bg,"color-mix(in srgb, #efa8b0 40%, #000)",--button-primary-bg,#4da3d9,1.44,FAIL,FAIL
+dark,--stats-style1-bg,"color-mix(in srgb, #efa8b0 40%, #000)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",9.54,PASS,PASS
+dark,--stats-style1-bg,"color-mix(in srgb, #efa8b0 40%, #000)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",8.70,PASS,PASS
+dark,--stats-style2-bg,"color-mix(in srgb, #c79cc8 40%, #000)",--main-background-color,#0f1220,8.00,PASS,PASS
+dark,--stats-style2-bg,"color-mix(in srgb, #c79cc8 40%, #000)",--form-bg,"rgba(255, 255, 255, 0.06)",6.95,PASS,FAIL
+dark,--stats-style2-bg,"color-mix(in srgb, #c79cc8 40%, #000)",--button-primary-bg,#4da3d9,1.19,FAIL,FAIL
+dark,--stats-style2-bg,"color-mix(in srgb, #c79cc8 40%, #000)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",7.89,PASS,PASS
+dark,--stats-style2-bg,"color-mix(in srgb, #c79cc8 40%, #000)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",7.20,PASS,PASS
+dark,--stats-style3-bg,"color-mix(in srgb, #a89cc8 40%, #000)",--main-background-color,#0f1220,7.32,PASS,PASS
+dark,--stats-style3-bg,"color-mix(in srgb, #a89cc8 40%, #000)",--form-bg,"rgba(255, 255, 255, 0.06)",6.37,PASS,FAIL
+dark,--stats-style3-bg,"color-mix(in srgb, #a89cc8 40%, #000)",--button-primary-bg,#4da3d9,1.09,FAIL,FAIL
+dark,--stats-style3-bg,"color-mix(in srgb, #a89cc8 40%, #000)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",7.22,PASS,PASS
+dark,--stats-style3-bg,"color-mix(in srgb, #a89cc8 40%, #000)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",6.59,PASS,FAIL
+dark,--stats-style4-bg,"color-mix(in srgb, #9bb2e1 40%, #000)",--main-background-color,#0f1220,8.73,PASS,PASS
+dark,--stats-style4-bg,"color-mix(in srgb, #9bb2e1 40%, #000)",--form-bg,"rgba(255, 255, 255, 0.06)",7.60,PASS,PASS
+dark,--stats-style4-bg,"color-mix(in srgb, #9bb2e1 40%, #000)",--button-primary-bg,#4da3d9,1.30,FAIL,FAIL
+dark,--stats-style4-bg,"color-mix(in srgb, #9bb2e1 40%, #000)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",8.62,PASS,PASS
+dark,--stats-style4-bg,"color-mix(in srgb, #9bb2e1 40%, #000)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",7.87,PASS,PASS
+dark,--stats-style5-bg,"color-mix(in srgb, #8cc9f0 40%, #000)",--main-background-color,#0f1220,10.40,PASS,PASS
+dark,--stats-style5-bg,"color-mix(in srgb, #8cc9f0 40%, #000)",--form-bg,"rgba(255, 255, 255, 0.06)",9.04,PASS,PASS
+dark,--stats-style5-bg,"color-mix(in srgb, #8cc9f0 40%, #000)",--button-primary-bg,#4da3d9,1.55,FAIL,FAIL
+dark,--stats-style5-bg,"color-mix(in srgb, #8cc9f0 40%, #000)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",10.26,PASS,PASS
+dark,--stats-style5-bg,"color-mix(in srgb, #8cc9f0 40%, #000)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",9.37,PASS,PASS
+dark,--stats-text-color,#ffffff,--main-background-color,#0f1220,18.62,PASS,PASS
+dark,--stats-text-color,#ffffff,--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--stats-text-color,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
+dark,--stats-text-color,#ffffff,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",18.38,PASS,PASS
+dark,--stats-text-color,#ffffff,--back-btn-bg,"rgba(30, 30, 35, 0.95)",16.77,PASS,PASS
+dark,--table-border,"rgba(255, 255, 255, 0.18)",--main-background-color,#0f1220,1.72,FAIL,FAIL
+dark,--table-border,"rgba(255, 255, 255, 0.18)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--table-border,"rgba(255, 255, 255, 0.18)",--button-primary-bg,#4da3d9,1.22,FAIL,FAIL
+dark,--table-border,"rgba(255, 255, 255, 0.18)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.90,FAIL,FAIL
+dark,--table-border,"rgba(255, 255, 255, 0.18)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.84,FAIL,FAIL
+dark,--table-header-text,"rgba(255, 255, 255, 0.9)",--main-background-color,#0f1220,15.08,PASS,PASS
+dark,--table-header-text,"rgba(255, 255, 255, 0.9)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--table-header-text,"rgba(255, 255, 255, 0.9)",--button-primary-bg,#4da3d9,2.54,FAIL,FAIL
+dark,--table-header-text,"rgba(255, 255, 255, 0.9)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",15.42,PASS,PASS
+dark,--table-header-text,"rgba(255, 255, 255, 0.9)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",13.94,PASS,PASS
+dark,--table-row-alt-bg,"rgba(255, 255, 255, 0.04)",--main-background-color,#0f1220,1.09,FAIL,FAIL
+dark,--table-row-alt-bg,"rgba(255, 255, 255, 0.04)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--table-row-alt-bg,"rgba(255, 255, 255, 0.04)",--button-primary-bg,#4da3d9,1.05,FAIL,FAIL
+dark,--table-row-alt-bg,"rgba(255, 255, 255, 0.04)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.12,FAIL,FAIL
+dark,--table-row-alt-bg,"rgba(255, 255, 255, 0.04)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.13,FAIL,FAIL
+dark,--text-primary,#e6e6eb,--main-background-color,#0f1220,14.97,PASS,PASS
+dark,--text-primary,#e6e6eb,--form-bg,"rgba(255, 255, 255, 0.06)",13.02,PASS,PASS
+dark,--text-primary,#e6e6eb,--button-primary-bg,#4da3d9,2.23,FAIL,FAIL
+dark,--text-primary,#e6e6eb,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",14.78,PASS,PASS
+dark,--text-primary,#e6e6eb,--back-btn-bg,"rgba(30, 30, 35, 0.95)",13.48,PASS,PASS
+dark,--text-secondary,"rgba(235, 235, 245, 0.6)",--main-background-color,#0f1220,6.19,PASS,FAIL
+dark,--text-secondary,"rgba(235, 235, 245, 0.6)",--form-bg,"rgba(255, 255, 255, 0.06)",13.79,PASS,PASS
+dark,--text-secondary,"rgba(235, 235, 245, 0.6)",--button-primary-bg,#4da3d9,1.69,FAIL,FAIL
+dark,--text-secondary,"rgba(235, 235, 245, 0.6)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",6.83,PASS,FAIL
+dark,--text-secondary,"rgba(235, 235, 245, 0.6)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",6.15,PASS,FAIL
+dark,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",--main-background-color,#0f1220,1.01,FAIL,FAIL
+dark,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",--form-bg,"rgba(255, 255, 255, 0.06)",1.11,FAIL,FAIL
+dark,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",--button-primary-bg,#4da3d9,5.31,PASS,FAIL
+dark,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.00,FAIL,FAIL
+dark,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.09,FAIL,FAIL
+dark,--theme-toggle-border,"rgba(255, 255, 255, 0.12)",--main-background-color,#0f1220,1.38,FAIL,FAIL
+dark,--theme-toggle-border,"rgba(255, 255, 255, 0.12)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--theme-toggle-border,"rgba(255, 255, 255, 0.12)",--button-primary-bg,#4da3d9,1.14,FAIL,FAIL
+dark,--theme-toggle-border,"rgba(255, 255, 255, 0.12)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.48,FAIL,FAIL
+dark,--theme-toggle-border,"rgba(255, 255, 255, 0.12)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.48,FAIL,FAIL
+dark,--theme-toggle-color,#ffffff,--main-background-color,#0f1220,18.62,PASS,PASS
+dark,--theme-toggle-color,#ffffff,--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+dark,--theme-toggle-color,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
+dark,--theme-toggle-color,#ffffff,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",18.38,PASS,PASS
+dark,--theme-toggle-color,#ffffff,--back-btn-bg,"rgba(30, 30, 35, 0.95)",16.77,PASS,PASS
+dark,--theme-toggle-shadow,"0 6px 20px rgba(0, 0, 0, 0.6)",--main-background-color,#0f1220,1.08,FAIL,FAIL
+dark,--theme-toggle-shadow,"0 6px 20px rgba(0, 0, 0, 0.6)",--form-bg,"rgba(255, 255, 255, 0.06)",1.22,FAIL,FAIL
+dark,--theme-toggle-shadow,"0 6px 20px rgba(0, 0, 0, 0.6)",--button-primary-bg,#4da3d9,3.87,FAIL,FAIL
+dark,--theme-toggle-shadow,"0 6px 20px rgba(0, 0, 0, 0.6)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.10,FAIL,FAIL
+dark,--theme-toggle-shadow,"0 6px 20px rgba(0, 0, 0, 0.6)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.17,FAIL,FAIL
+media-dark,--alt-class-contain-color,"rgba(255, 255, 255, 0.72)",--main-background-color,#0f1220,9.92,PASS,PASS
+media-dark,--alt-class-contain-color,"rgba(255, 255, 255, 0.72)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--alt-class-contain-color,"rgba(255, 255, 255, 0.72)",--button-primary-bg,#4da3d9,2.13,FAIL,FAIL
+media-dark,--alt-class-contain-color,"rgba(255, 255, 255, 0.72)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",10.66,PASS,PASS
+media-dark,--alt-class-contain-color,"rgba(255, 255, 255, 0.72)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",9.43,PASS,PASS
+media-dark,--back-btn-bg,"rgba(30, 30, 35, 0.95)",--main-background-color,#0f1220,1.11,FAIL,FAIL
+media-dark,--back-btn-bg,"rgba(30, 30, 35, 0.95)",--form-bg,"rgba(255, 255, 255, 0.06)",1.01,FAIL,FAIL
+media-dark,--back-btn-bg,"rgba(30, 30, 35, 0.95)",--button-primary-bg,#4da3d9,5.55,PASS,FAIL
+media-dark,--back-btn-bg,"rgba(30, 30, 35, 0.95)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.11,FAIL,FAIL
+media-dark,--back-btn-bg,"rgba(30, 30, 35, 0.95)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.01,FAIL,FAIL
+media-dark,--back-btn-color,#ffffff,--main-background-color,#0f1220,18.62,PASS,PASS
+media-dark,--back-btn-color,#ffffff,--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--back-btn-color,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
+media-dark,--back-btn-color,#ffffff,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",18.38,PASS,PASS
+media-dark,--back-btn-color,#ffffff,--back-btn-bg,"rgba(30, 30, 35, 0.95)",16.77,PASS,PASS
+media-dark,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.5)",--main-background-color,#0f1220,1.07,FAIL,FAIL
+media-dark,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.5)",--form-bg,"rgba(255, 255, 255, 0.06)",1.19,FAIL,FAIL
+media-dark,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.5)",--button-primary-bg,#4da3d9,3.02,FAIL,FAIL
+media-dark,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.5)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.08,FAIL,FAIL
+media-dark,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.5)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.14,FAIL,FAIL
+media-dark,--back-btn-shadow-hover,"0 10px 28px rgba(0, 0, 0, 0.7)",--main-background-color,#0f1220,1.09,FAIL,FAIL
+media-dark,--back-btn-shadow-hover,"0 10px 28px rgba(0, 0, 0, 0.7)",--form-bg,"rgba(255, 255, 255, 0.06)",1.25,FAIL,FAIL
+media-dark,--back-btn-shadow-hover,"0 10px 28px rgba(0, 0, 0, 0.7)",--button-primary-bg,#4da3d9,4.87,PASS,FAIL
+media-dark,--back-btn-shadow-hover,"0 10px 28px rgba(0, 0, 0, 0.7)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.11,FAIL,FAIL
+media-dark,--back-btn-shadow-hover,"0 10px 28px rgba(0, 0, 0, 0.7)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.19,FAIL,FAIL
+media-dark,--border-soft,"rgba(255, 255, 255, 0.18)",--main-background-color,#0f1220,1.72,FAIL,FAIL
+media-dark,--border-soft,"rgba(255, 255, 255, 0.18)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--border-soft,"rgba(255, 255, 255, 0.18)",--button-primary-bg,#4da3d9,1.22,FAIL,FAIL
+media-dark,--border-soft,"rgba(255, 255, 255, 0.18)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.90,FAIL,FAIL
+media-dark,--border-soft,"rgba(255, 255, 255, 0.18)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.84,FAIL,FAIL
+media-dark,--box-border-color,"rgba(255, 255, 255, 0.18)",--main-background-color,#0f1220,1.72,FAIL,FAIL
+media-dark,--box-border-color,"rgba(255, 255, 255, 0.18)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--box-border-color,"rgba(255, 255, 255, 0.18)",--button-primary-bg,#4da3d9,1.22,FAIL,FAIL
+media-dark,--box-border-color,"rgba(255, 255, 255, 0.18)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.90,FAIL,FAIL
+media-dark,--box-border-color,"rgba(255, 255, 255, 0.18)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.84,FAIL,FAIL
+media-dark,--button-active-bg,"rgba(255, 255, 255, 0.12)",--main-background-color,#0f1220,1.38,FAIL,FAIL
+media-dark,--button-active-bg,"rgba(255, 255, 255, 0.12)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--button-active-bg,"rgba(255, 255, 255, 0.12)",--button-primary-bg,#4da3d9,1.14,FAIL,FAIL
+media-dark,--button-active-bg,"rgba(255, 255, 255, 0.12)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.48,FAIL,FAIL
+media-dark,--button-active-bg,"rgba(255, 255, 255, 0.12)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.48,FAIL,FAIL
+media-dark,--button-bg,transparent,--main-background-color,#0f1220,1.00,FAIL,FAIL
+media-dark,--button-bg,transparent,--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--button-bg,transparent,--button-primary-bg,#4da3d9,1.00,FAIL,FAIL
+media-dark,--button-bg,transparent,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.00,FAIL,FAIL
+media-dark,--button-bg,transparent,--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.01,FAIL,FAIL
+media-dark,--button-border,"rgba(255, 255, 255, 0.18)",--main-background-color,#0f1220,1.72,FAIL,FAIL
+media-dark,--button-border,"rgba(255, 255, 255, 0.18)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--button-border,"rgba(255, 255, 255, 0.18)",--button-primary-bg,#4da3d9,1.22,FAIL,FAIL
+media-dark,--button-border,"rgba(255, 255, 255, 0.18)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.90,FAIL,FAIL
+media-dark,--button-border,"rgba(255, 255, 255, 0.18)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.84,FAIL,FAIL
+media-dark,--button-hover-bg,"rgba(255, 255, 255, 0.06)",--main-background-color,#0f1220,1.15,FAIL,FAIL
+media-dark,--button-hover-bg,"rgba(255, 255, 255, 0.06)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--button-hover-bg,"rgba(255, 255, 255, 0.06)",--button-primary-bg,#4da3d9,1.07,FAIL,FAIL
+media-dark,--button-hover-bg,"rgba(255, 255, 255, 0.06)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.19,FAIL,FAIL
+media-dark,--button-hover-bg,"rgba(255, 255, 255, 0.06)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.21,FAIL,FAIL
+media-dark,--button-icon,"rgba(255, 255, 255, 0.5)",--main-background-color,#0f1220,5.28,PASS,FAIL
+media-dark,--button-icon,"rgba(255, 255, 255, 0.5)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--button-icon,"rgba(255, 255, 255, 0.5)",--button-primary-bg,#4da3d9,1.71,FAIL,FAIL
+media-dark,--button-icon,"rgba(255, 255, 255, 0.5)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",5.99,PASS,FAIL
+media-dark,--button-icon,"rgba(255, 255, 255, 0.5)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",5.34,PASS,FAIL
+media-dark,--button-primary-active-bg,#3f95cc,--main-background-color,#0f1220,5.66,PASS,FAIL
+media-dark,--button-primary-active-bg,#3f95cc,--form-bg,"rgba(255, 255, 255, 0.06)",4.92,PASS,FAIL
+media-dark,--button-primary-active-bg,#3f95cc,--button-primary-bg,#4da3d9,1.18,FAIL,FAIL
+media-dark,--button-primary-active-bg,#3f95cc,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",5.59,PASS,FAIL
+media-dark,--button-primary-active-bg,#3f95cc,--back-btn-bg,"rgba(30, 30, 35, 0.95)",5.10,PASS,FAIL
+media-dark,--button-primary-bg,#4da3d9,--main-background-color,#0f1220,6.70,PASS,FAIL
+media-dark,--button-primary-bg,#4da3d9,--form-bg,"rgba(255, 255, 255, 0.06)",5.83,PASS,FAIL
+media-dark,--button-primary-bg,#4da3d9,--button-primary-bg,#4da3d9,1.00,FAIL,FAIL
+media-dark,--button-primary-bg,#4da3d9,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",6.61,PASS,FAIL
+media-dark,--button-primary-bg,#4da3d9,--back-btn-bg,"rgba(30, 30, 35, 0.95)",6.03,PASS,FAIL
+media-dark,--button-primary-hover-bg,#5aaae0,--main-background-color,#0f1220,7.33,PASS,PASS
+media-dark,--button-primary-hover-bg,#5aaae0,--form-bg,"rgba(255, 255, 255, 0.06)",6.37,PASS,FAIL
+media-dark,--button-primary-hover-bg,#5aaae0,--button-primary-bg,#4da3d9,1.09,FAIL,FAIL
+media-dark,--button-primary-hover-bg,#5aaae0,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",7.23,PASS,PASS
+media-dark,--button-primary-hover-bg,#5aaae0,--back-btn-bg,"rgba(30, 30, 35, 0.95)",6.60,PASS,FAIL
+media-dark,--button-primary-text,#083040,--main-background-color,#0f1220,1.34,FAIL,FAIL
+media-dark,--button-primary-text,#083040,--form-bg,"rgba(255, 255, 255, 0.06)",1.16,FAIL,FAIL
+media-dark,--button-primary-text,#083040,--button-primary-bg,#4da3d9,5.01,PASS,FAIL
+media-dark,--button-primary-text,#083040,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.32,FAIL,FAIL
+media-dark,--button-primary-text,#083040,--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.20,FAIL,FAIL
+media-dark,--button-text,#e6e6eb,--main-background-color,#0f1220,14.97,PASS,PASS
+media-dark,--button-text,#e6e6eb,--form-bg,"rgba(255, 255, 255, 0.06)",13.02,PASS,PASS
+media-dark,--button-text,#e6e6eb,--button-primary-bg,#4da3d9,2.23,FAIL,FAIL
+media-dark,--button-text,#e6e6eb,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",14.78,PASS,PASS
+media-dark,--button-text,#e6e6eb,--back-btn-bg,"rgba(30, 30, 35, 0.95)",13.48,PASS,PASS
+media-dark,--code-bg,"rgba(255, 255, 255, 0.08)",--main-background-color,#0f1220,1.22,FAIL,FAIL
+media-dark,--code-bg,"rgba(255, 255, 255, 0.08)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--code-bg,"rgba(255, 255, 255, 0.08)",--button-primary-bg,#4da3d9,1.09,FAIL,FAIL
+media-dark,--code-bg,"rgba(255, 255, 255, 0.08)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.29,FAIL,FAIL
+media-dark,--code-bg,"rgba(255, 255, 255, 0.08)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.29,FAIL,FAIL
+media-dark,--dl-title,#e6e6eb,--main-background-color,#0f1220,14.97,PASS,PASS
+media-dark,--dl-title,#e6e6eb,--form-bg,"rgba(255, 255, 255, 0.06)",13.02,PASS,PASS
+media-dark,--dl-title,#e6e6eb,--button-primary-bg,#4da3d9,2.23,FAIL,FAIL
+media-dark,--dl-title,#e6e6eb,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",14.78,PASS,PASS
+media-dark,--dl-title,#e6e6eb,--back-btn-bg,"rgba(30, 30, 35, 0.95)",13.48,PASS,PASS
+media-dark,--form-bg,"rgba(255, 255, 255, 0.06)",--main-background-color,#0f1220,1.15,FAIL,FAIL
+media-dark,--form-bg,"rgba(255, 255, 255, 0.06)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--form-bg,"rgba(255, 255, 255, 0.06)",--button-primary-bg,#4da3d9,1.07,FAIL,FAIL
+media-dark,--form-bg,"rgba(255, 255, 255, 0.06)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.19,FAIL,FAIL
+media-dark,--form-bg,"rgba(255, 255, 255, 0.06)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.21,FAIL,FAIL
+media-dark,--form-border,"rgba(255, 255, 255, 0.18)",--main-background-color,#0f1220,1.72,FAIL,FAIL
+media-dark,--form-border,"rgba(255, 255, 255, 0.18)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--form-border,"rgba(255, 255, 255, 0.18)",--button-primary-bg,#4da3d9,1.22,FAIL,FAIL
+media-dark,--form-border,"rgba(255, 255, 255, 0.18)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.90,FAIL,FAIL
+media-dark,--form-border,"rgba(255, 255, 255, 0.18)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.84,FAIL,FAIL
+media-dark,--form-check-active-bg,#ffffff,--main-background-color,#0f1220,18.62,PASS,PASS
+media-dark,--form-check-active-bg,#ffffff,--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--form-check-active-bg,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
+media-dark,--form-check-active-bg,#ffffff,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",18.38,PASS,PASS
+media-dark,--form-check-active-bg,#ffffff,--back-btn-bg,"rgba(30, 30, 35, 0.95)",16.77,PASS,PASS
+media-dark,--form-check-active-text,#935d8c,--main-background-color,#0f1220,3.71,FAIL,FAIL
+media-dark,--form-check-active-text,#935d8c,--form-bg,"rgba(255, 255, 255, 0.06)",3.23,FAIL,FAIL
+media-dark,--form-check-active-text,#935d8c,--button-primary-bg,#4da3d9,1.81,FAIL,FAIL
+media-dark,--form-check-active-text,#935d8c,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",3.66,FAIL,FAIL
+media-dark,--form-check-active-text,#935d8c,--back-btn-bg,"rgba(30, 30, 35, 0.95)",3.34,FAIL,FAIL
+media-dark,--form-check-bg,"rgba(255, 255, 255, 0.06)",--main-background-color,#0f1220,1.15,FAIL,FAIL
+media-dark,--form-check-bg,"rgba(255, 255, 255, 0.06)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--form-check-bg,"rgba(255, 255, 255, 0.06)",--button-primary-bg,#4da3d9,1.07,FAIL,FAIL
+media-dark,--form-check-bg,"rgba(255, 255, 255, 0.06)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.19,FAIL,FAIL
+media-dark,--form-check-bg,"rgba(255, 255, 255, 0.06)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.21,FAIL,FAIL
+media-dark,--form-check-border,"rgba(255, 255, 255, 0.18)",--main-background-color,#0f1220,1.72,FAIL,FAIL
+media-dark,--form-check-border,"rgba(255, 255, 255, 0.18)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--form-check-border,"rgba(255, 255, 255, 0.18)",--button-primary-bg,#4da3d9,1.22,FAIL,FAIL
+media-dark,--form-check-border,"rgba(255, 255, 255, 0.18)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.90,FAIL,FAIL
+media-dark,--form-check-border,"rgba(255, 255, 255, 0.18)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.84,FAIL,FAIL
+media-dark,--form-focus,#4da3d9,--main-background-color,#0f1220,6.70,PASS,FAIL
+media-dark,--form-focus,#4da3d9,--form-bg,"rgba(255, 255, 255, 0.06)",5.83,PASS,FAIL
+media-dark,--form-focus,#4da3d9,--button-primary-bg,#4da3d9,1.00,FAIL,FAIL
+media-dark,--form-focus,#4da3d9,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",6.61,PASS,FAIL
+media-dark,--form-focus,#4da3d9,--back-btn-bg,"rgba(30, 30, 35, 0.95)",6.03,PASS,FAIL
+media-dark,--form-label,#e6e6eb,--main-background-color,#0f1220,14.97,PASS,PASS
+media-dark,--form-label,#e6e6eb,--form-bg,"rgba(255, 255, 255, 0.06)",13.02,PASS,PASS
+media-dark,--form-label,#e6e6eb,--button-primary-bg,#4da3d9,2.23,FAIL,FAIL
+media-dark,--form-label,#e6e6eb,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",14.78,PASS,PASS
+media-dark,--form-label,#e6e6eb,--back-btn-bg,"rgba(30, 30, 35, 0.95)",13.48,PASS,PASS
+media-dark,--form-placeholder,"rgba(235, 235, 245, 0.45)",--main-background-color,#0f1220,4.01,FAIL,FAIL
+media-dark,--form-placeholder,"rgba(235, 235, 245, 0.45)",--form-bg,"rgba(255, 255, 255, 0.06)",13.80,PASS,PASS
+media-dark,--form-placeholder,"rgba(235, 235, 245, 0.45)",--button-primary-bg,#4da3d9,1.48,FAIL,FAIL
+media-dark,--form-placeholder,"rgba(235, 235, 245, 0.45)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",4.50,PASS,FAIL
+media-dark,--form-placeholder,"rgba(235, 235, 245, 0.45)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",4.10,FAIL,FAIL
+media-dark,--form-select-arrow,"rgba(255, 255, 255, 0.3)",--main-background-color,#0f1220,2.67,FAIL,FAIL
+media-dark,--form-select-arrow,"rgba(255, 255, 255, 0.3)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--form-select-arrow,"rgba(255, 255, 255, 0.3)",--button-primary-bg,#4da3d9,1.39,FAIL,FAIL
+media-dark,--form-select-arrow,"rgba(255, 255, 255, 0.3)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",3.07,FAIL,FAIL
+media-dark,--form-select-arrow,"rgba(255, 255, 255, 0.3)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",2.84,FAIL,FAIL
+media-dark,--form-select-option-bg,#1c1c1e,--main-background-color,#0f1220,1.09,FAIL,FAIL
+media-dark,--form-select-option-bg,#1c1c1e,--form-bg,"rgba(255, 255, 255, 0.06)",1.05,FAIL,FAIL
+media-dark,--form-select-option-bg,#1c1c1e,--button-primary-bg,#4da3d9,6.12,PASS,FAIL
+media-dark,--form-select-option-bg,#1c1c1e,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.08,FAIL,FAIL
+media-dark,--form-select-option-bg,#1c1c1e,--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.01,FAIL,FAIL
+media-dark,--form-select-option-text,#ffffff,--main-background-color,#0f1220,18.62,PASS,PASS
+media-dark,--form-select-option-text,#ffffff,--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--form-select-option-text,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
+media-dark,--form-select-option-text,#ffffff,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",18.38,PASS,PASS
+media-dark,--form-select-option-text,#ffffff,--back-btn-bg,"rgba(30, 30, 35, 0.95)",16.77,PASS,PASS
+media-dark,--form-text,"rgba(235, 235, 245, 0.6)",--main-background-color,#0f1220,6.19,PASS,FAIL
+media-dark,--form-text,"rgba(235, 235, 245, 0.6)",--form-bg,"rgba(255, 255, 255, 0.06)",13.79,PASS,PASS
+media-dark,--form-text,"rgba(235, 235, 245, 0.6)",--button-primary-bg,#4da3d9,1.69,FAIL,FAIL
+media-dark,--form-text,"rgba(235, 235, 245, 0.6)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",6.83,PASS,FAIL
+media-dark,--form-text,"rgba(235, 235, 245, 0.6)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",6.15,PASS,FAIL
+media-dark,--header-divider,"rgba(255, 255, 255, 0.18)",--main-background-color,#0f1220,1.72,FAIL,FAIL
+media-dark,--header-divider,"rgba(255, 255, 255, 0.18)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--header-divider,"rgba(255, 255, 255, 0.18)",--button-primary-bg,#4da3d9,1.22,FAIL,FAIL
+media-dark,--header-divider,"rgba(255, 255, 255, 0.18)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.90,FAIL,FAIL
+media-dark,--header-divider,"rgba(255, 255, 255, 0.18)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.84,FAIL,FAIL
+media-dark,--icon-alt-active-bg,"rgba(255, 255, 255, 0.2)",--main-background-color,#0f1220,1.84,FAIL,FAIL
+media-dark,--icon-alt-active-bg,"rgba(255, 255, 255, 0.2)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--icon-alt-active-bg,"rgba(255, 255, 255, 0.2)",--button-primary-bg,#4da3d9,1.24,FAIL,FAIL
+media-dark,--icon-alt-active-bg,"rgba(255, 255, 255, 0.2)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",2.05,FAIL,FAIL
+media-dark,--icon-alt-active-bg,"rgba(255, 255, 255, 0.2)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.99,FAIL,FAIL
+media-dark,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.075)",--main-background-color,#0f1220,1.21,FAIL,FAIL
+media-dark,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.075)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.075)",--button-primary-bg,#4da3d9,1.09,FAIL,FAIL
+media-dark,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.075)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.25,FAIL,FAIL
+media-dark,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.075)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.28,FAIL,FAIL
+media-dark,--icon-alt-text,#ffffff,--main-background-color,#0f1220,18.62,PASS,PASS
+media-dark,--icon-alt-text,#ffffff,--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--icon-alt-text,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
+media-dark,--icon-alt-text,#ffffff,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",18.38,PASS,PASS
+media-dark,--icon-alt-text,#ffffff,--back-btn-bg,"rgba(30, 30, 35, 0.95)",16.77,PASS,PASS
+media-dark,--icon-border,"rgba(255, 255, 255, 0.35)",--main-background-color,#0f1220,3.21,FAIL,FAIL
+media-dark,--icon-border,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--icon-border,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#4da3d9,1.46,FAIL,FAIL
+media-dark,--icon-border,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",3.67,FAIL,FAIL
+media-dark,--icon-border,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",3.35,FAIL,FAIL
+media-dark,--icon-style1,#f2a6b1,--main-background-color,#0f1220,9.63,PASS,PASS
+media-dark,--icon-style1,#f2a6b1,--form-bg,"rgba(255, 255, 255, 0.06)",8.38,PASS,PASS
+media-dark,--icon-style1,#f2a6b1,--button-primary-bg,#4da3d9,1.44,FAIL,FAIL
+media-dark,--icon-style1,#f2a6b1,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",9.51,PASS,PASS
+media-dark,--icon-style1,#f2a6b1,--back-btn-bg,"rgba(30, 30, 35, 0.95)",8.68,PASS,PASS
+media-dark,--icon-style2,#d1a6d6,--main-background-color,#0f1220,8.99,PASS,PASS
+media-dark,--icon-style2,#d1a6d6,--form-bg,"rgba(255, 255, 255, 0.06)",7.82,PASS,PASS
+media-dark,--icon-style2,#d1a6d6,--button-primary-bg,#4da3d9,1.34,FAIL,FAIL
+media-dark,--icon-style2,#d1a6d6,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",8.87,PASS,PASS
+media-dark,--icon-style2,#d1a6d6,--back-btn-bg,"rgba(30, 30, 35, 0.95)",8.09,PASS,PASS
+media-dark,--icon-style3,#b7aad6,--main-background-color,#0f1220,8.63,PASS,PASS
+media-dark,--icon-style3,#b7aad6,--form-bg,"rgba(255, 255, 255, 0.06)",7.51,PASS,PASS
+media-dark,--icon-style3,#b7aad6,--button-primary-bg,#4da3d9,1.29,FAIL,FAIL
+media-dark,--icon-style3,#b7aad6,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",8.52,PASS,PASS
+media-dark,--icon-style3,#b7aad6,--back-btn-bg,"rgba(30, 30, 35, 0.95)",7.77,PASS,PASS
+media-dark,--icon-style4,#a9bde8,--main-background-color,#0f1220,9.87,PASS,PASS
+media-dark,--icon-style4,#a9bde8,--form-bg,"rgba(255, 255, 255, 0.06)",8.58,PASS,PASS
+media-dark,--icon-style4,#a9bde8,--button-primary-bg,#4da3d9,1.47,FAIL,FAIL
+media-dark,--icon-style4,#a9bde8,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",9.74,PASS,PASS
+media-dark,--icon-style4,#a9bde8,--back-btn-bg,"rgba(30, 30, 35, 0.95)",8.89,PASS,PASS
+media-dark,--icon-style5,#6fb6e8,--main-background-color,#0f1220,8.45,PASS,PASS
+media-dark,--icon-style5,#6fb6e8,--form-bg,"rgba(255, 255, 255, 0.06)",7.35,PASS,PASS
+media-dark,--icon-style5,#6fb6e8,--button-primary-bg,#4da3d9,1.26,FAIL,FAIL
+media-dark,--icon-style5,#6fb6e8,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",8.34,PASS,PASS
+media-dark,--icon-style5,#6fb6e8,--back-btn-bg,"rgba(30, 30, 35, 0.95)",7.61,PASS,PASS
+media-dark,--link-hover,#ffffff,--main-background-color,#0f1220,18.62,PASS,PASS
+media-dark,--link-hover,#ffffff,--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--link-hover,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
+media-dark,--link-hover,#ffffff,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",18.38,PASS,PASS
+media-dark,--link-hover,#ffffff,--back-btn-bg,"rgba(30, 30, 35, 0.95)",16.77,PASS,PASS
+media-dark,--list-divider,"rgba(255, 255, 255, 0.18)",--main-background-color,#0f1220,1.72,FAIL,FAIL
+media-dark,--list-divider,"rgba(255, 255, 255, 0.18)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--list-divider,"rgba(255, 255, 255, 0.18)",--button-primary-bg,#4da3d9,1.22,FAIL,FAIL
+media-dark,--list-divider,"rgba(255, 255, 255, 0.18)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.90,FAIL,FAIL
+media-dark,--list-divider,"rgba(255, 255, 255, 0.18)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.84,FAIL,FAIL
+media-dark,--main-background-color,#0f1220,--main-background-color,#0f1220,1.00,FAIL,FAIL
+media-dark,--main-background-color,#0f1220,--form-bg,"rgba(255, 255, 255, 0.06)",1.15,FAIL,FAIL
+media-dark,--main-background-color,#0f1220,--button-primary-bg,#4da3d9,6.70,PASS,FAIL
+media-dark,--main-background-color,#0f1220,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.01,FAIL,FAIL
+media-dark,--main-background-color,#0f1220,--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.11,FAIL,FAIL
+media-dark,--main-background-image-grad-end,#1b1f3b,--main-background-color,#0f1220,1.16,FAIL,FAIL
+media-dark,--main-background-image-grad-end,#1b1f3b,--form-bg,"rgba(255, 255, 255, 0.06)",1.01,FAIL,FAIL
+media-dark,--main-background-image-grad-end,#1b1f3b,--button-primary-bg,#4da3d9,5.79,PASS,FAIL
+media-dark,--main-background-image-grad-end,#1b1f3b,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.14,FAIL,FAIL
+media-dark,--main-background-image-grad-end,#1b1f3b,--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.04,FAIL,FAIL
+media-dark,--main-background-image-grad-start,#0b0e1a,--main-background-color,#0f1220,1.03,FAIL,FAIL
+media-dark,--main-background-image-grad-start,#0b0e1a,--form-bg,"rgba(255, 255, 255, 0.06)",1.19,FAIL,FAIL
+media-dark,--main-background-image-grad-start,#0b0e1a,--button-primary-bg,#4da3d9,6.92,PASS,FAIL
+media-dark,--main-background-image-grad-start,#0b0e1a,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.05,FAIL,FAIL
+media-dark,--main-background-image-grad-start,#0b0e1a,--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.15,FAIL,FAIL
+media-dark,--select-focus-bg,transparent,--main-background-color,#0f1220,1.00,FAIL,FAIL
+media-dark,--select-focus-bg,transparent,--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--select-focus-bg,transparent,--button-primary-bg,#4da3d9,1.00,FAIL,FAIL
+media-dark,--select-focus-bg,transparent,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.00,FAIL,FAIL
+media-dark,--select-focus-bg,transparent,--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.01,FAIL,FAIL
+media-dark,--spotlight-image-border,"rgba(255, 255, 255, 0.18)",--main-background-color,#0f1220,1.72,FAIL,FAIL
+media-dark,--spotlight-image-border,"rgba(255, 255, 255, 0.18)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--spotlight-image-border,"rgba(255, 255, 255, 0.18)",--button-primary-bg,#4da3d9,1.22,FAIL,FAIL
+media-dark,--spotlight-image-border,"rgba(255, 255, 255, 0.18)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.90,FAIL,FAIL
+media-dark,--spotlight-image-border,"rgba(255, 255, 255, 0.18)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.84,FAIL,FAIL
+media-dark,--stats-style1-bg,"color-mix(in srgb, #efa8b0 40%, #000)",--main-background-color,#0f1220,9.66,PASS,PASS
+media-dark,--stats-style1-bg,"color-mix(in srgb, #efa8b0 40%, #000)",--form-bg,"rgba(255, 255, 255, 0.06)",8.40,PASS,PASS
+media-dark,--stats-style1-bg,"color-mix(in srgb, #efa8b0 40%, #000)",--button-primary-bg,#4da3d9,1.44,FAIL,FAIL
+media-dark,--stats-style1-bg,"color-mix(in srgb, #efa8b0 40%, #000)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",9.54,PASS,PASS
+media-dark,--stats-style1-bg,"color-mix(in srgb, #efa8b0 40%, #000)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",8.70,PASS,PASS
+media-dark,--stats-style2-bg,"color-mix(in srgb, #c79cc8 40%, #000)",--main-background-color,#0f1220,8.00,PASS,PASS
+media-dark,--stats-style2-bg,"color-mix(in srgb, #c79cc8 40%, #000)",--form-bg,"rgba(255, 255, 255, 0.06)",6.95,PASS,FAIL
+media-dark,--stats-style2-bg,"color-mix(in srgb, #c79cc8 40%, #000)",--button-primary-bg,#4da3d9,1.19,FAIL,FAIL
+media-dark,--stats-style2-bg,"color-mix(in srgb, #c79cc8 40%, #000)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",7.89,PASS,PASS
+media-dark,--stats-style2-bg,"color-mix(in srgb, #c79cc8 40%, #000)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",7.20,PASS,PASS
+media-dark,--stats-style3-bg,"color-mix(in srgb, #a89cc8 40%, #000)",--main-background-color,#0f1220,7.32,PASS,PASS
+media-dark,--stats-style3-bg,"color-mix(in srgb, #a89cc8 40%, #000)",--form-bg,"rgba(255, 255, 255, 0.06)",6.37,PASS,FAIL
+media-dark,--stats-style3-bg,"color-mix(in srgb, #a89cc8 40%, #000)",--button-primary-bg,#4da3d9,1.09,FAIL,FAIL
+media-dark,--stats-style3-bg,"color-mix(in srgb, #a89cc8 40%, #000)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",7.22,PASS,PASS
+media-dark,--stats-style3-bg,"color-mix(in srgb, #a89cc8 40%, #000)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",6.59,PASS,FAIL
+media-dark,--stats-style4-bg,"color-mix(in srgb, #9bb2e1 40%, #000)",--main-background-color,#0f1220,8.73,PASS,PASS
+media-dark,--stats-style4-bg,"color-mix(in srgb, #9bb2e1 40%, #000)",--form-bg,"rgba(255, 255, 255, 0.06)",7.60,PASS,PASS
+media-dark,--stats-style4-bg,"color-mix(in srgb, #9bb2e1 40%, #000)",--button-primary-bg,#4da3d9,1.30,FAIL,FAIL
+media-dark,--stats-style4-bg,"color-mix(in srgb, #9bb2e1 40%, #000)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",8.62,PASS,PASS
+media-dark,--stats-style4-bg,"color-mix(in srgb, #9bb2e1 40%, #000)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",7.87,PASS,PASS
+media-dark,--stats-style5-bg,"color-mix(in srgb, #8cc9f0 40%, #000)",--main-background-color,#0f1220,10.40,PASS,PASS
+media-dark,--stats-style5-bg,"color-mix(in srgb, #8cc9f0 40%, #000)",--form-bg,"rgba(255, 255, 255, 0.06)",9.04,PASS,PASS
+media-dark,--stats-style5-bg,"color-mix(in srgb, #8cc9f0 40%, #000)",--button-primary-bg,#4da3d9,1.55,FAIL,FAIL
+media-dark,--stats-style5-bg,"color-mix(in srgb, #8cc9f0 40%, #000)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",10.26,PASS,PASS
+media-dark,--stats-style5-bg,"color-mix(in srgb, #8cc9f0 40%, #000)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",9.37,PASS,PASS
+media-dark,--stats-text-color,#ffffff,--main-background-color,#0f1220,18.62,PASS,PASS
+media-dark,--stats-text-color,#ffffff,--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--stats-text-color,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
+media-dark,--stats-text-color,#ffffff,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",18.38,PASS,PASS
+media-dark,--stats-text-color,#ffffff,--back-btn-bg,"rgba(30, 30, 35, 0.95)",16.77,PASS,PASS
+media-dark,--table-border,"rgba(255, 255, 255, 0.18)",--main-background-color,#0f1220,1.72,FAIL,FAIL
+media-dark,--table-border,"rgba(255, 255, 255, 0.18)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--table-border,"rgba(255, 255, 255, 0.18)",--button-primary-bg,#4da3d9,1.22,FAIL,FAIL
+media-dark,--table-border,"rgba(255, 255, 255, 0.18)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.90,FAIL,FAIL
+media-dark,--table-border,"rgba(255, 255, 255, 0.18)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.84,FAIL,FAIL
+media-dark,--table-header-text,"rgba(255, 255, 255, 0.9)",--main-background-color,#0f1220,15.08,PASS,PASS
+media-dark,--table-header-text,"rgba(255, 255, 255, 0.9)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--table-header-text,"rgba(255, 255, 255, 0.9)",--button-primary-bg,#4da3d9,2.54,FAIL,FAIL
+media-dark,--table-header-text,"rgba(255, 255, 255, 0.9)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",15.42,PASS,PASS
+media-dark,--table-header-text,"rgba(255, 255, 255, 0.9)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",13.94,PASS,PASS
+media-dark,--table-row-alt-bg,"rgba(255, 255, 255, 0.04)",--main-background-color,#0f1220,1.09,FAIL,FAIL
+media-dark,--table-row-alt-bg,"rgba(255, 255, 255, 0.04)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--table-row-alt-bg,"rgba(255, 255, 255, 0.04)",--button-primary-bg,#4da3d9,1.05,FAIL,FAIL
+media-dark,--table-row-alt-bg,"rgba(255, 255, 255, 0.04)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.12,FAIL,FAIL
+media-dark,--table-row-alt-bg,"rgba(255, 255, 255, 0.04)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.13,FAIL,FAIL
+media-dark,--text-primary,#e6e6eb,--main-background-color,#0f1220,14.97,PASS,PASS
+media-dark,--text-primary,#e6e6eb,--form-bg,"rgba(255, 255, 255, 0.06)",13.02,PASS,PASS
+media-dark,--text-primary,#e6e6eb,--button-primary-bg,#4da3d9,2.23,FAIL,FAIL
+media-dark,--text-primary,#e6e6eb,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",14.78,PASS,PASS
+media-dark,--text-primary,#e6e6eb,--back-btn-bg,"rgba(30, 30, 35, 0.95)",13.48,PASS,PASS
+media-dark,--text-secondary,"rgba(235, 235, 245, 0.6)",--main-background-color,#0f1220,6.19,PASS,FAIL
+media-dark,--text-secondary,"rgba(235, 235, 245, 0.6)",--form-bg,"rgba(255, 255, 255, 0.06)",13.79,PASS,PASS
+media-dark,--text-secondary,"rgba(235, 235, 245, 0.6)",--button-primary-bg,#4da3d9,1.69,FAIL,FAIL
+media-dark,--text-secondary,"rgba(235, 235, 245, 0.6)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",6.83,PASS,FAIL
+media-dark,--text-secondary,"rgba(235, 235, 245, 0.6)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",6.15,PASS,FAIL
+media-dark,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",--main-background-color,#0f1220,1.01,FAIL,FAIL
+media-dark,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",--form-bg,"rgba(255, 255, 255, 0.06)",1.11,FAIL,FAIL
+media-dark,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",--button-primary-bg,#4da3d9,5.31,PASS,FAIL
+media-dark,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.00,FAIL,FAIL
+media-dark,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.09,FAIL,FAIL
+media-dark,--theme-toggle-border,"rgba(255, 255, 255, 0.12)",--main-background-color,#0f1220,1.38,FAIL,FAIL
+media-dark,--theme-toggle-border,"rgba(255, 255, 255, 0.12)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--theme-toggle-border,"rgba(255, 255, 255, 0.12)",--button-primary-bg,#4da3d9,1.14,FAIL,FAIL
+media-dark,--theme-toggle-border,"rgba(255, 255, 255, 0.12)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.48,FAIL,FAIL
+media-dark,--theme-toggle-border,"rgba(255, 255, 255, 0.12)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.48,FAIL,FAIL
+media-dark,--theme-toggle-color,#ffffff,--main-background-color,#0f1220,18.62,PASS,PASS
+media-dark,--theme-toggle-color,#ffffff,--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
+media-dark,--theme-toggle-color,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
+media-dark,--theme-toggle-color,#ffffff,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",18.38,PASS,PASS
+media-dark,--theme-toggle-color,#ffffff,--back-btn-bg,"rgba(30, 30, 35, 0.95)",16.77,PASS,PASS
+media-dark,--theme-toggle-shadow,"0 6px 20px rgba(0, 0, 0, 0.6)",--main-background-color,#0f1220,1.08,FAIL,FAIL
+media-dark,--theme-toggle-shadow,"0 6px 20px rgba(0, 0, 0, 0.6)",--form-bg,"rgba(255, 255, 255, 0.06)",1.22,FAIL,FAIL
+media-dark,--theme-toggle-shadow,"0 6px 20px rgba(0, 0, 0, 0.6)",--button-primary-bg,#4da3d9,3.87,FAIL,FAIL
+media-dark,--theme-toggle-shadow,"0 6px 20px rgba(0, 0, 0, 0.6)",--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.10,FAIL,FAIL
+media-dark,--theme-toggle-shadow,"0 6px 20px rgba(0, 0, 0, 0.6)",--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.17,FAIL,FAIL
