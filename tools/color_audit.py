@@ -308,6 +308,76 @@ def analyze_palette_full(output_csv_path, root_vars, dark_vars, media_dark_vars)
             print(f"- [{r['theme']}] {r['fg_var']} ({r['fg_val']}) on {r['bg_var']} ({r['bg_val']}) -> {r['contrast']} : AA=FAIL")
 
 
+SEMANTIC_FG_PATTERNS = [
+    # Match variables that are likely used as readable foregrounds
+    r'.*-color$',
+    r'.*-text$',
+    r'^--text',
+    r'^--form-text$',
+    r'^--button-primary-text$',
+    r'^--table-header-text$',
+    r'^--dl-title$',
+    r'^--theme-toggle-color$',
+    r'^--back-btn-color$',
+]
+
+import fnmatch
+
+def is_semantic_fg(var_name):
+    for p in SEMANTIC_FG_PATTERNS:
+        if re.search(p, var_name):
+            return True
+    return False
+
+
+def analyze_palette_semantic(root_vars, dark_vars, media_dark_vars):
+    print('\n=== Semantic palette audit (focused on text/icons/buttons) ===')
+    themes = [
+        ('light', root_vars, {}),
+    ]
+    if dark_vars:
+        themes.append(('dark', dark_vars, root_vars))
+    if media_dark_vars:
+        themes.append(('media-dark', media_dark_vars, root_vars))
+
+    failures = []
+    total = 0
+    for theme_name, vars_map, root_map in themes:
+        var_names = set(list(root_map.keys()) + list(vars_map.keys()))
+        # pick semantic fg vars
+        fg_vars = [v for v in sorted(var_names) if is_semantic_fg(v)]
+        for fg in fg_vars:
+            fg_val = resolve_var(fg, vars_map, root_map)
+            if not fg_val:
+                continue
+            for bg in PALETTE_BG_TARGETS:
+                bg_val = resolve_var(bg, vars_map, root_map)
+                if not bg_val:
+                    continue
+                fg_rgba = to_rgba(fg_val, bg_val)
+                bg_rgba = to_rgba(bg_val)
+                if not fg_rgba or not bg_rgba:
+                    continue
+                if bg_rgba[3] < 1.0:
+                    main_bg = resolve_var('--main-background-color', vars_map, root_map) or resolve_var('--main-background-color', root_map, {})
+                    main_bg_parsed = parse_color(main_bg) if main_bg else (255,255,255,1.0)
+                    bg_rgba = blend(bg_rgba, main_bg_parsed)
+                cr = contrast_ratio(fg_rgba, bg_rgba)
+                aa = cr >= 4.5
+                total += 1
+                if not aa:
+                    failures.append((theme_name, fg, fg_val, bg, bg_val, cr))
+
+    print(f'Total semantic checks: {total}, Failures: {len(failures)}')
+    if failures:
+        print('\nSemantic failures: (first 20)')
+        for t,fg,fgv,bg,bgv,cr in failures[:20]:
+            print(f"- [{t}] {fg} ({fgv}) on {bg} ({bgv}) -> {cr:.2f}")
+    else:
+        print('No semantic failures found.')
+    return failures
+
+
 if __name__ == '__main__':
     root_vars, dark_vars, media_dark_vars = load_css_vars(CSS_PATH)
     print('Loaded vars: root:', len(root_vars), 'dark:', len(dark_vars), 'media-dark:', len(media_dark_vars))
@@ -329,3 +399,6 @@ if __name__ == '__main__':
 
     # Run full palette audit and write CSV
     analyze_palette_full('tools/palette_audit.csv', root_vars, dark_vars, media_dark_vars)
+
+    # Run semantic audit for focused actionable items
+    analyze_palette_semantic(root_vars, dark_vars, media_dark_vars)

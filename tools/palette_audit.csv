@@ -1,324 +1,324 @@
 theme,fg_var,fg_val,bg_var,bg_val,contrast,AA,AAA
-light,--alt-class-contain-color,"rgba(255, 255, 255, 0.65)",--main-background-color,#935d8c,3.11,FAIL,FAIL
-light,--alt-class-contain-color,"rgba(255, 255, 255, 0.65)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--alt-class-contain-color,"rgba(255, 255, 255, 0.65)",--button-primary-bg,#8cc9f0,1.47,FAIL,FAIL
-light,--alt-class-contain-color,"rgba(255, 255, 255, 0.65)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--alt-class-contain-color,"rgba(255, 255, 255, 0.65)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
-light,--back-btn-bg,"rgba(255, 255, 255, 0.9)",--main-background-color,#935d8c,4.42,FAIL,FAIL
-light,--back-btn-bg,"rgba(255, 255, 255, 0.9)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--back-btn-bg,"rgba(255, 255, 255, 0.9)",--button-primary-bg,#8cc9f0,1.70,FAIL,FAIL
-light,--back-btn-bg,"rgba(255, 255, 255, 0.9)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--back-btn-bg,"rgba(255, 255, 255, 0.9)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
-light,--back-btn-color,#333,--main-background-color,#935d8c,2.52,FAIL,FAIL
-light,--back-btn-color,#333,--form-bg,"rgba(255, 255, 255, 0.35)",4.86,PASS,FAIL
-light,--back-btn-color,#333,--button-primary-bg,#8cc9f0,7.06,PASS,PASS
-light,--back-btn-color,#333,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",4.86,PASS,FAIL
-light,--back-btn-color,#333,--back-btn-bg,"rgba(255, 255, 255, 0.9)",11.13,PASS,PASS
-light,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.15)",--main-background-color,#935d8c,1.29,FAIL,FAIL
-light,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.15)",--form-bg,"rgba(255, 255, 255, 0.35)",1.12,FAIL,FAIL
-light,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.15)",--button-primary-bg,#8cc9f0,1.38,FAIL,FAIL
-light,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.15)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.12,FAIL,FAIL
-light,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.15)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.29,FAIL,FAIL
-light,--back-btn-shadow-hover,"0 10px 24px rgba(0, 0, 0, 0.2)",--main-background-color,#935d8c,1.40,FAIL,FAIL
-light,--back-btn-shadow-hover,"0 10px 24px rgba(0, 0, 0, 0.2)",--form-bg,"rgba(255, 255, 255, 0.35)",1.15,FAIL,FAIL
-light,--back-btn-shadow-hover,"0 10px 24px rgba(0, 0, 0, 0.2)",--button-primary-bg,#8cc9f0,1.55,FAIL,FAIL
-light,--back-btn-shadow-hover,"0 10px 24px rgba(0, 0, 0, 0.2)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.15,FAIL,FAIL
-light,--back-btn-shadow-hover,"0 10px 24px rgba(0, 0, 0, 0.2)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.47,FAIL,FAIL
+light,--alt-class-contain-color,"rgba(255, 255, 255, 0.95)",--main-background-color,#935d8c,4.72,PASS,FAIL
+light,--alt-class-contain-color,"rgba(255, 255, 255, 0.95)",--form-bg,"rgba(0, 0, 0, 0.10)",5.86,PASS,FAIL
+light,--alt-class-contain-color,"rgba(255, 255, 255, 0.95)",--button-primary-bg,#4da3d9,2.65,FAIL,FAIL
+light,--alt-class-contain-color,"rgba(255, 255, 255, 0.95)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--alt-class-contain-color,"rgba(255, 255, 255, 0.95)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
+light,--back-btn-bg,"rgba(255, 255, 255, 0.95)",--main-background-color,#935d8c,4.72,PASS,FAIL
+light,--back-btn-bg,"rgba(255, 255, 255, 0.95)",--form-bg,"rgba(0, 0, 0, 0.10)",5.86,PASS,FAIL
+light,--back-btn-bg,"rgba(255, 255, 255, 0.95)",--button-primary-bg,#4da3d9,2.65,FAIL,FAIL
+light,--back-btn-bg,"rgba(255, 255, 255, 0.95)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
+light,--back-btn-bg,"rgba(255, 255, 255, 0.95)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
+light,--back-btn-color,#083040,--main-background-color,#935d8c,2.78,FAIL,FAIL
+light,--back-btn-color,#083040,--form-bg,"rgba(0, 0, 0, 0.10)",2.36,FAIL,FAIL
+light,--back-btn-color,#083040,--button-primary-bg,#4da3d9,5.01,PASS,FAIL
+light,--back-btn-color,#083040,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",5.36,PASS,FAIL
+light,--back-btn-color,#083040,--back-btn-bg,"rgba(255, 255, 255, 0.95)",13.10,PASS,PASS
+light,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.12)",--main-background-color,#935d8c,1.22,FAIL,FAIL
+light,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.12)",--form-bg,"rgba(0, 0, 0, 0.10)",3.55,FAIL,FAIL
+light,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.12)",--button-primary-bg,#4da3d9,1.27,FAIL,FAIL
+light,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.12)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.31,FAIL,FAIL
+light,--back-btn-shadow,"0 6px 18px rgba(0, 0, 0, 0.12)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.25,FAIL,FAIL
+light,--back-btn-shadow-hover,"0 10px 24px rgba(0, 0, 0, 0.18)",--main-background-color,#935d8c,1.35,FAIL,FAIL
+light,--back-btn-shadow-hover,"0 10px 24px rgba(0, 0, 0, 0.18)",--form-bg,"rgba(0, 0, 0, 0.10)",3.55,FAIL,FAIL
+light,--back-btn-shadow-hover,"0 10px 24px rgba(0, 0, 0, 0.18)",--button-primary-bg,#4da3d9,1.44,FAIL,FAIL
+light,--back-btn-shadow-hover,"0 10px 24px rgba(0, 0, 0, 0.18)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.04,FAIL,FAIL
+light,--back-btn-shadow-hover,"0 10px 24px rgba(0, 0, 0, 0.18)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.46,FAIL,FAIL
 light,--border-soft,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
-light,--border-soft,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--border-soft,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--border-soft,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(0, 0, 0, 0.10)",4.11,FAIL,FAIL
+light,--border-soft,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#4da3d9,1.46,FAIL,FAIL
 light,--border-soft,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--border-soft,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
-light,--box-border-color,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
-light,--box-border-color,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--box-border-color,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
-light,--box-border-color,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--box-border-color,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--border-soft,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
+light,--box-border-color,"rgba(0, 0, 0, 0.12)",--main-background-color,#935d8c,1.22,FAIL,FAIL
+light,--box-border-color,"rgba(0, 0, 0, 0.12)",--form-bg,"rgba(0, 0, 0, 0.10)",3.55,FAIL,FAIL
+light,--box-border-color,"rgba(0, 0, 0, 0.12)",--button-primary-bg,#4da3d9,1.27,FAIL,FAIL
+light,--box-border-color,"rgba(0, 0, 0, 0.12)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.31,FAIL,FAIL
+light,--box-border-color,"rgba(0, 0, 0, 0.12)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.25,FAIL,FAIL
 light,--button-active-bg,"rgba(255, 255, 255, 0.2)",--main-background-color,#935d8c,1.47,FAIL,FAIL
-light,--button-active-bg,"rgba(255, 255, 255, 0.2)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--button-active-bg,"rgba(255, 255, 255, 0.2)",--button-primary-bg,#8cc9f0,1.13,FAIL,FAIL
+light,--button-active-bg,"rgba(255, 255, 255, 0.2)",--form-bg,"rgba(0, 0, 0, 0.10)",2.92,FAIL,FAIL
+light,--button-active-bg,"rgba(255, 255, 255, 0.2)",--button-primary-bg,#4da3d9,1.24,FAIL,FAIL
 light,--button-active-bg,"rgba(255, 255, 255, 0.2)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--button-active-bg,"rgba(255, 255, 255, 0.2)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--button-active-bg,"rgba(255, 255, 255, 0.2)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--button-bg,transparent,--main-background-color,#935d8c,1.00,FAIL,FAIL
-light,--button-bg,transparent,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--button-bg,transparent,--button-primary-bg,#8cc9f0,1.00,FAIL,FAIL
+light,--button-bg,transparent,--form-bg,"rgba(0, 0, 0, 0.10)",3.55,FAIL,FAIL
+light,--button-bg,transparent,--button-primary-bg,#4da3d9,1.00,FAIL,FAIL
 light,--button-bg,transparent,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--button-bg,transparent,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
-light,--button-border,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
-light,--button-border,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--button-border,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
-light,--button-border,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--button-border,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--button-bg,transparent,--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
+light,--button-border,"rgba(0, 0, 0, 0.12)",--main-background-color,#935d8c,1.22,FAIL,FAIL
+light,--button-border,"rgba(0, 0, 0, 0.12)",--form-bg,"rgba(0, 0, 0, 0.10)",3.55,FAIL,FAIL
+light,--button-border,"rgba(0, 0, 0, 0.12)",--button-primary-bg,#4da3d9,1.27,FAIL,FAIL
+light,--button-border,"rgba(0, 0, 0, 0.12)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.31,FAIL,FAIL
+light,--button-border,"rgba(0, 0, 0, 0.12)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.25,FAIL,FAIL
 light,--button-hover-bg,"rgba(255, 255, 255, 0.075)",--main-background-color,#935d8c,1.16,FAIL,FAIL
-light,--button-hover-bg,"rgba(255, 255, 255, 0.075)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--button-hover-bg,"rgba(255, 255, 255, 0.075)",--button-primary-bg,#8cc9f0,1.05,FAIL,FAIL
+light,--button-hover-bg,"rgba(255, 255, 255, 0.075)",--form-bg,"rgba(0, 0, 0, 0.10)",1.23,FAIL,FAIL
+light,--button-hover-bg,"rgba(255, 255, 255, 0.075)",--button-primary-bg,#4da3d9,1.09,FAIL,FAIL
 light,--button-hover-bg,"rgba(255, 255, 255, 0.075)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--button-hover-bg,"rgba(255, 255, 255, 0.075)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--button-hover-bg,"rgba(255, 255, 255, 0.075)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--button-icon,"rgba(255, 255, 255, 0.5)",--main-background-color,#935d8c,2.47,FAIL,FAIL
-light,--button-icon,"rgba(255, 255, 255, 0.5)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--button-icon,"rgba(255, 255, 255, 0.5)",--button-primary-bg,#8cc9f0,1.35,FAIL,FAIL
+light,--button-icon,"rgba(255, 255, 255, 0.5)",--form-bg,"rgba(0, 0, 0, 0.10)",4.83,PASS,FAIL
+light,--button-icon,"rgba(255, 255, 255, 0.5)",--button-primary-bg,#4da3d9,1.71,FAIL,FAIL
 light,--button-icon,"rgba(255, 255, 255, 0.5)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--button-icon,"rgba(255, 255, 255, 0.5)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
-light,--button-primary-active-bg,#7ec3ee,--main-background-color,#935d8c,2.61,FAIL,FAIL
-light,--button-primary-active-bg,#7ec3ee,--form-bg,"rgba(255, 255, 255, 0.35)",1.35,FAIL,FAIL
-light,--button-primary-active-bg,#7ec3ee,--button-primary-bg,#8cc9f0,1.07,FAIL,FAIL
-light,--button-primary-active-bg,#7ec3ee,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.35,FAIL,FAIL
-light,--button-primary-active-bg,#7ec3ee,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.69,FAIL,FAIL
-light,--button-primary-bg,#8cc9f0,--main-background-color,#935d8c,2.80,FAIL,FAIL
-light,--button-primary-bg,#8cc9f0,--form-bg,"rgba(255, 255, 255, 0.35)",1.45,FAIL,FAIL
-light,--button-primary-bg,#8cc9f0,--button-primary-bg,#8cc9f0,1.00,FAIL,FAIL
-light,--button-primary-bg,#8cc9f0,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.45,FAIL,FAIL
-light,--button-primary-bg,#8cc9f0,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.58,FAIL,FAIL
-light,--button-primary-hover-bg,#9acff2,--main-background-color,#935d8c,3.01,FAIL,FAIL
-light,--button-primary-hover-bg,#9acff2,--form-bg,"rgba(255, 255, 255, 0.35)",1.56,FAIL,FAIL
-light,--button-primary-hover-bg,#9acff2,--button-primary-bg,#8cc9f0,1.07,FAIL,FAIL
-light,--button-primary-hover-bg,#9acff2,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.56,FAIL,FAIL
-light,--button-primary-hover-bg,#9acff2,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.47,FAIL,FAIL
+light,--button-icon,"rgba(255, 255, 255, 0.5)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
+light,--button-primary-active-bg,#3f95cc,--main-background-color,#935d8c,1.53,FAIL,FAIL
+light,--button-primary-active-bg,#3f95cc,--form-bg,"rgba(0, 0, 0, 0.10)",1.80,FAIL,FAIL
+light,--button-primary-active-bg,#3f95cc,--button-primary-bg,#4da3d9,1.18,FAIL,FAIL
+light,--button-primary-active-bg,#3f95cc,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.27,FAIL,FAIL
+light,--button-primary-active-bg,#3f95cc,--back-btn-bg,"rgba(255, 255, 255, 0.95)",3.09,FAIL,FAIL
+light,--button-primary-bg,#4da3d9,--main-background-color,#935d8c,1.81,FAIL,FAIL
+light,--button-primary-bg,#4da3d9,--form-bg,"rgba(0, 0, 0, 0.10)",2.13,FAIL,FAIL
+light,--button-primary-bg,#4da3d9,--button-primary-bg,#4da3d9,1.00,FAIL,FAIL
+light,--button-primary-bg,#4da3d9,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.07,FAIL,FAIL
+light,--button-primary-bg,#4da3d9,--back-btn-bg,"rgba(255, 255, 255, 0.95)",2.61,FAIL,FAIL
+light,--button-primary-hover-bg,#5aaae0,--main-background-color,#935d8c,1.97,FAIL,FAIL
+light,--button-primary-hover-bg,#5aaae0,--form-bg,"rgba(0, 0, 0, 0.10)",2.33,FAIL,FAIL
+light,--button-primary-hover-bg,#5aaae0,--button-primary-bg,#4da3d9,1.09,FAIL,FAIL
+light,--button-primary-hover-bg,#5aaae0,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.02,FAIL,FAIL
+light,--button-primary-hover-bg,#5aaae0,--back-btn-bg,"rgba(255, 255, 255, 0.95)",2.39,FAIL,FAIL
 light,--button-primary-text,#083040,--main-background-color,#935d8c,2.78,FAIL,FAIL
-light,--button-primary-text,#083040,--form-bg,"rgba(255, 255, 255, 0.35)",5.36,PASS,FAIL
-light,--button-primary-text,#083040,--button-primary-bg,#8cc9f0,7.78,PASS,PASS
+light,--button-primary-text,#083040,--form-bg,"rgba(0, 0, 0, 0.10)",2.36,FAIL,FAIL
+light,--button-primary-text,#083040,--button-primary-bg,#4da3d9,5.01,PASS,FAIL
 light,--button-primary-text,#083040,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",5.36,PASS,FAIL
-light,--button-primary-text,#083040,--back-btn-bg,"rgba(255, 255, 255, 0.9)",12.27,PASS,PASS
-light,--button-text,#ffffff,--main-background-color,#935d8c,5.02,PASS,FAIL
-light,--button-text,#ffffff,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--button-text,#ffffff,--button-primary-bg,#8cc9f0,1.79,FAIL,FAIL
-light,--button-text,#ffffff,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--button-text,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--button-primary-text,#083040,--back-btn-bg,"rgba(255, 255, 255, 0.95)",13.10,PASS,PASS
+light,--button-text,#083040,--main-background-color,#935d8c,2.78,FAIL,FAIL
+light,--button-text,#083040,--form-bg,"rgba(0, 0, 0, 0.10)",2.36,FAIL,FAIL
+light,--button-text,#083040,--button-primary-bg,#4da3d9,5.01,PASS,FAIL
+light,--button-text,#083040,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",5.36,PASS,FAIL
+light,--button-text,#083040,--back-btn-bg,"rgba(255, 255, 255, 0.95)",13.10,PASS,PASS
 light,--code-bg,"rgba(255, 255, 255, 0.075)",--main-background-color,#935d8c,1.16,FAIL,FAIL
-light,--code-bg,"rgba(255, 255, 255, 0.075)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--code-bg,"rgba(255, 255, 255, 0.075)",--button-primary-bg,#8cc9f0,1.05,FAIL,FAIL
+light,--code-bg,"rgba(255, 255, 255, 0.075)",--form-bg,"rgba(0, 0, 0, 0.10)",1.23,FAIL,FAIL
+light,--code-bg,"rgba(255, 255, 255, 0.075)",--button-primary-bg,#4da3d9,1.09,FAIL,FAIL
 light,--code-bg,"rgba(255, 255, 255, 0.075)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--code-bg,"rgba(255, 255, 255, 0.075)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
-light,--dl-title,#ffffff,--main-background-color,#935d8c,5.02,PASS,FAIL
-light,--dl-title,#ffffff,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--dl-title,#ffffff,--button-primary-bg,#8cc9f0,1.79,FAIL,FAIL
-light,--dl-title,#ffffff,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--dl-title,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
-light,--form-bg,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
-light,--form-bg,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--form-bg,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
-light,--form-bg,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--form-bg,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--code-bg,"rgba(255, 255, 255, 0.075)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
+light,--dl-title,#083040,--main-background-color,#935d8c,2.78,FAIL,FAIL
+light,--dl-title,#083040,--form-bg,"rgba(0, 0, 0, 0.10)",2.36,FAIL,FAIL
+light,--dl-title,#083040,--button-primary-bg,#4da3d9,5.01,PASS,FAIL
+light,--dl-title,#083040,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",5.36,PASS,FAIL
+light,--dl-title,#083040,--back-btn-bg,"rgba(255, 255, 255, 0.95)",13.10,PASS,PASS
+light,--form-bg,"rgba(0, 0, 0, 0.10)",--main-background-color,#935d8c,1.18,FAIL,FAIL
+light,--form-bg,"rgba(0, 0, 0, 0.10)",--form-bg,"rgba(0, 0, 0, 0.10)",3.55,FAIL,FAIL
+light,--form-bg,"rgba(0, 0, 0, 0.10)",--button-primary-bg,#4da3d9,1.22,FAIL,FAIL
+light,--form-bg,"rgba(0, 0, 0, 0.10)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.46,FAIL,FAIL
+light,--form-bg,"rgba(0, 0, 0, 0.10)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.19,FAIL,FAIL
 light,--form-border,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
-light,--form-border,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--form-border,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--form-border,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(0, 0, 0, 0.10)",4.11,FAIL,FAIL
+light,--form-border,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#4da3d9,1.46,FAIL,FAIL
 light,--form-border,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--form-border,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--form-border,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--form-check-active-bg,#ffffff,--main-background-color,#935d8c,5.02,PASS,FAIL
-light,--form-check-active-bg,#ffffff,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--form-check-active-bg,#ffffff,--button-primary-bg,#8cc9f0,1.79,FAIL,FAIL
+light,--form-check-active-bg,#ffffff,--form-bg,"rgba(0, 0, 0, 0.10)",5.91,PASS,FAIL
+light,--form-check-active-bg,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
 light,--form-check-active-bg,#ffffff,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--form-check-active-bg,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
-light,--form-check-active-text,#935d8c,--main-background-color,#935d8c,1.00,FAIL,FAIL
-light,--form-check-active-text,#935d8c,--form-bg,"rgba(255, 255, 255, 0.35)",1.93,FAIL,FAIL
-light,--form-check-active-text,#935d8c,--button-primary-bg,#8cc9f0,2.80,FAIL,FAIL
-light,--form-check-active-text,#935d8c,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.93,FAIL,FAIL
-light,--form-check-active-text,#935d8c,--back-btn-bg,"rgba(255, 255, 255, 0.9)",4.42,FAIL,FAIL
+light,--form-check-active-bg,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
+light,--form-check-active-text,#083040,--main-background-color,#935d8c,2.78,FAIL,FAIL
+light,--form-check-active-text,#083040,--form-bg,"rgba(0, 0, 0, 0.10)",2.36,FAIL,FAIL
+light,--form-check-active-text,#083040,--button-primary-bg,#4da3d9,5.01,PASS,FAIL
+light,--form-check-active-text,#083040,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",5.36,PASS,FAIL
+light,--form-check-active-text,#083040,--back-btn-bg,"rgba(255, 255, 255, 0.95)",13.10,PASS,PASS
 light,--form-check-bg,"rgba(255, 255, 255, 0.075)",--main-background-color,#935d8c,1.16,FAIL,FAIL
-light,--form-check-bg,"rgba(255, 255, 255, 0.075)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--form-check-bg,"rgba(255, 255, 255, 0.075)",--button-primary-bg,#8cc9f0,1.05,FAIL,FAIL
+light,--form-check-bg,"rgba(255, 255, 255, 0.075)",--form-bg,"rgba(0, 0, 0, 0.10)",1.23,FAIL,FAIL
+light,--form-check-bg,"rgba(255, 255, 255, 0.075)",--button-primary-bg,#4da3d9,1.09,FAIL,FAIL
 light,--form-check-bg,"rgba(255, 255, 255, 0.075)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--form-check-bg,"rgba(255, 255, 255, 0.075)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--form-check-bg,"rgba(255, 255, 255, 0.075)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--form-check-border,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
-light,--form-check-border,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--form-check-border,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--form-check-border,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(0, 0, 0, 0.10)",4.11,FAIL,FAIL
+light,--form-check-border,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#4da3d9,1.46,FAIL,FAIL
 light,--form-check-border,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--form-check-border,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--form-check-border,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--form-focus,#8cc9f0,--main-background-color,#935d8c,2.80,FAIL,FAIL
-light,--form-focus,#8cc9f0,--form-bg,"rgba(255, 255, 255, 0.35)",1.45,FAIL,FAIL
-light,--form-focus,#8cc9f0,--button-primary-bg,#8cc9f0,1.00,FAIL,FAIL
+light,--form-focus,#8cc9f0,--form-bg,"rgba(0, 0, 0, 0.10)",3.30,FAIL,FAIL
+light,--form-focus,#8cc9f0,--button-primary-bg,#4da3d9,1.55,FAIL,FAIL
 light,--form-focus,#8cc9f0,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.45,FAIL,FAIL
-light,--form-focus,#8cc9f0,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.58,FAIL,FAIL
+light,--form-focus,#8cc9f0,--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.68,FAIL,FAIL
 light,--form-label,#ffffff,--main-background-color,#935d8c,5.02,PASS,FAIL
-light,--form-label,#ffffff,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--form-label,#ffffff,--button-primary-bg,#8cc9f0,1.79,FAIL,FAIL
+light,--form-label,#ffffff,--form-bg,"rgba(0, 0, 0, 0.10)",5.91,PASS,FAIL
+light,--form-label,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
 light,--form-label,#ffffff,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--form-label,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--form-label,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--form-placeholder,"rgba(255, 255, 255, 0.5)",--main-background-color,#935d8c,2.47,FAIL,FAIL
-light,--form-placeholder,"rgba(255, 255, 255, 0.5)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--form-placeholder,"rgba(255, 255, 255, 0.5)",--button-primary-bg,#8cc9f0,1.35,FAIL,FAIL
+light,--form-placeholder,"rgba(255, 255, 255, 0.5)",--form-bg,"rgba(0, 0, 0, 0.10)",4.83,PASS,FAIL
+light,--form-placeholder,"rgba(255, 255, 255, 0.5)",--button-primary-bg,#4da3d9,1.71,FAIL,FAIL
 light,--form-placeholder,"rgba(255, 255, 255, 0.5)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--form-placeholder,"rgba(255, 255, 255, 0.5)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--form-placeholder,"rgba(255, 255, 255, 0.5)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--form-select-arrow,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
-light,--form-select-arrow,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--form-select-arrow,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--form-select-arrow,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(0, 0, 0, 0.10)",4.11,FAIL,FAIL
+light,--form-select-arrow,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#4da3d9,1.46,FAIL,FAIL
 light,--form-select-arrow,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--form-select-arrow,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--form-select-arrow,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--form-select-option-bg,#935d8c,--main-background-color,#935d8c,1.00,FAIL,FAIL
-light,--form-select-option-bg,#935d8c,--form-bg,"rgba(255, 255, 255, 0.35)",1.93,FAIL,FAIL
-light,--form-select-option-bg,#935d8c,--button-primary-bg,#8cc9f0,2.80,FAIL,FAIL
+light,--form-select-option-bg,#935d8c,--form-bg,"rgba(0, 0, 0, 0.10)",1.18,FAIL,FAIL
+light,--form-select-option-bg,#935d8c,--button-primary-bg,#4da3d9,1.81,FAIL,FAIL
 light,--form-select-option-bg,#935d8c,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.93,FAIL,FAIL
-light,--form-select-option-bg,#935d8c,--back-btn-bg,"rgba(255, 255, 255, 0.9)",4.42,FAIL,FAIL
+light,--form-select-option-bg,#935d8c,--back-btn-bg,"rgba(255, 255, 255, 0.95)",4.72,PASS,FAIL
 light,--form-select-option-text,#ffffff,--main-background-color,#935d8c,5.02,PASS,FAIL
-light,--form-select-option-text,#ffffff,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--form-select-option-text,#ffffff,--button-primary-bg,#8cc9f0,1.79,FAIL,FAIL
+light,--form-select-option-text,#ffffff,--form-bg,"rgba(0, 0, 0, 0.10)",5.91,PASS,FAIL
+light,--form-select-option-text,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
 light,--form-select-option-text,#ffffff,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--form-select-option-text,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--form-select-option-text,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--form-text,#083040,--main-background-color,#935d8c,2.78,FAIL,FAIL
-light,--form-text,#083040,--form-bg,"rgba(255, 255, 255, 0.35)",5.36,PASS,FAIL
-light,--form-text,#083040,--button-primary-bg,#8cc9f0,7.78,PASS,PASS
+light,--form-text,#083040,--form-bg,"rgba(0, 0, 0, 0.10)",2.36,FAIL,FAIL
+light,--form-text,#083040,--button-primary-bg,#4da3d9,5.01,PASS,FAIL
 light,--form-text,#083040,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",5.36,PASS,FAIL
-light,--form-text,#083040,--back-btn-bg,"rgba(255, 255, 255, 0.9)",12.27,PASS,PASS
+light,--form-text,#083040,--back-btn-bg,"rgba(255, 255, 255, 0.95)",13.10,PASS,PASS
 light,--header-divider,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
-light,--header-divider,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--header-divider,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--header-divider,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(0, 0, 0, 0.10)",4.11,FAIL,FAIL
+light,--header-divider,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#4da3d9,1.46,FAIL,FAIL
 light,--header-divider,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--header-divider,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--header-divider,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--icon-alt-active-bg,"rgba(255, 255, 255, 0.2)",--main-background-color,#935d8c,1.47,FAIL,FAIL
-light,--icon-alt-active-bg,"rgba(255, 255, 255, 0.2)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--icon-alt-active-bg,"rgba(255, 255, 255, 0.2)",--button-primary-bg,#8cc9f0,1.13,FAIL,FAIL
+light,--icon-alt-active-bg,"rgba(255, 255, 255, 0.2)",--form-bg,"rgba(0, 0, 0, 0.10)",2.92,FAIL,FAIL
+light,--icon-alt-active-bg,"rgba(255, 255, 255, 0.2)",--button-primary-bg,#4da3d9,1.24,FAIL,FAIL
 light,--icon-alt-active-bg,"rgba(255, 255, 255, 0.2)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--icon-alt-active-bg,"rgba(255, 255, 255, 0.2)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--icon-alt-active-bg,"rgba(255, 255, 255, 0.2)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.075)",--main-background-color,#935d8c,1.16,FAIL,FAIL
-light,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.075)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.075)",--button-primary-bg,#8cc9f0,1.05,FAIL,FAIL
+light,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.075)",--form-bg,"rgba(0, 0, 0, 0.10)",1.23,FAIL,FAIL
+light,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.075)",--button-primary-bg,#4da3d9,1.09,FAIL,FAIL
 light,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.075)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.075)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--icon-alt-hover-bg,"rgba(255, 255, 255, 0.075)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--icon-alt-text,#ffffff,--main-background-color,#935d8c,5.02,PASS,FAIL
-light,--icon-alt-text,#ffffff,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--icon-alt-text,#ffffff,--button-primary-bg,#8cc9f0,1.79,FAIL,FAIL
+light,--icon-alt-text,#ffffff,--form-bg,"rgba(0, 0, 0, 0.10)",5.91,PASS,FAIL
+light,--icon-alt-text,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
 light,--icon-alt-text,#ffffff,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--icon-alt-text,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--icon-alt-text,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--icon-border,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
-light,--icon-border,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--icon-border,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--icon-border,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(0, 0, 0, 0.10)",4.11,FAIL,FAIL
+light,--icon-border,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#4da3d9,1.46,FAIL,FAIL
 light,--icon-border,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--icon-border,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--icon-border,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--icon-style1,#efa8b0,--main-background-color,#935d8c,2.60,FAIL,FAIL
-light,--icon-style1,#efa8b0,--form-bg,"rgba(255, 255, 255, 0.35)",1.35,FAIL,FAIL
-light,--icon-style1,#efa8b0,--button-primary-bg,#8cc9f0,1.08,FAIL,FAIL
+light,--icon-style1,#efa8b0,--form-bg,"rgba(0, 0, 0, 0.10)",3.07,FAIL,FAIL
+light,--icon-style1,#efa8b0,--button-primary-bg,#4da3d9,1.44,FAIL,FAIL
 light,--icon-style1,#efa8b0,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.35,FAIL,FAIL
-light,--icon-style1,#efa8b0,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.70,FAIL,FAIL
+light,--icon-style1,#efa8b0,--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.81,FAIL,FAIL
 light,--icon-style2,#c79cc8,--main-background-color,#935d8c,2.15,FAIL,FAIL
-light,--icon-style2,#c79cc8,--form-bg,"rgba(255, 255, 255, 0.35)",1.12,FAIL,FAIL
-light,--icon-style2,#c79cc8,--button-primary-bg,#8cc9f0,1.30,FAIL,FAIL
+light,--icon-style2,#c79cc8,--form-bg,"rgba(0, 0, 0, 0.10)",2.54,FAIL,FAIL
+light,--icon-style2,#c79cc8,--button-primary-bg,#4da3d9,1.19,FAIL,FAIL
 light,--icon-style2,#c79cc8,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.12,FAIL,FAIL
-light,--icon-style2,#c79cc8,--back-btn-bg,"rgba(255, 255, 255, 0.9)",2.05,FAIL,FAIL
+light,--icon-style2,#c79cc8,--back-btn-bg,"rgba(255, 255, 255, 0.95)",2.19,FAIL,FAIL
 light,--icon-style3,#a89cc8,--main-background-color,#935d8c,1.97,FAIL,FAIL
-light,--icon-style3,#a89cc8,--form-bg,"rgba(255, 255, 255, 0.35)",1.02,FAIL,FAIL
-light,--icon-style3,#a89cc8,--button-primary-bg,#8cc9f0,1.42,FAIL,FAIL
+light,--icon-style3,#a89cc8,--form-bg,"rgba(0, 0, 0, 0.10)",2.32,FAIL,FAIL
+light,--icon-style3,#a89cc8,--button-primary-bg,#4da3d9,1.09,FAIL,FAIL
 light,--icon-style3,#a89cc8,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.02,FAIL,FAIL
-light,--icon-style3,#a89cc8,--back-btn-bg,"rgba(255, 255, 255, 0.9)",2.24,FAIL,FAIL
+light,--icon-style3,#a89cc8,--back-btn-bg,"rgba(255, 255, 255, 0.95)",2.39,FAIL,FAIL
 light,--icon-style4,#9bb2e1,--main-background-color,#935d8c,2.35,FAIL,FAIL
-light,--icon-style4,#9bb2e1,--form-bg,"rgba(255, 255, 255, 0.35)",1.22,FAIL,FAIL
-light,--icon-style4,#9bb2e1,--button-primary-bg,#8cc9f0,1.19,FAIL,FAIL
+light,--icon-style4,#9bb2e1,--form-bg,"rgba(0, 0, 0, 0.10)",2.77,FAIL,FAIL
+light,--icon-style4,#9bb2e1,--button-primary-bg,#4da3d9,1.30,FAIL,FAIL
 light,--icon-style4,#9bb2e1,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.22,FAIL,FAIL
-light,--icon-style4,#9bb2e1,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.88,FAIL,FAIL
+light,--icon-style4,#9bb2e1,--back-btn-bg,"rgba(255, 255, 255, 0.95)",2.00,FAIL,FAIL
 light,--icon-style5,#8cc9f0,--main-background-color,#935d8c,2.80,FAIL,FAIL
-light,--icon-style5,#8cc9f0,--form-bg,"rgba(255, 255, 255, 0.35)",1.45,FAIL,FAIL
-light,--icon-style5,#8cc9f0,--button-primary-bg,#8cc9f0,1.00,FAIL,FAIL
+light,--icon-style5,#8cc9f0,--form-bg,"rgba(0, 0, 0, 0.10)",3.30,FAIL,FAIL
+light,--icon-style5,#8cc9f0,--button-primary-bg,#4da3d9,1.55,FAIL,FAIL
 light,--icon-style5,#8cc9f0,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.45,FAIL,FAIL
-light,--icon-style5,#8cc9f0,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.58,FAIL,FAIL
+light,--icon-style5,#8cc9f0,--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.68,FAIL,FAIL
 light,--link-hover,#ffffff,--main-background-color,#935d8c,5.02,PASS,FAIL
-light,--link-hover,#ffffff,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--link-hover,#ffffff,--button-primary-bg,#8cc9f0,1.79,FAIL,FAIL
+light,--link-hover,#ffffff,--form-bg,"rgba(0, 0, 0, 0.10)",5.91,PASS,FAIL
+light,--link-hover,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
 light,--link-hover,#ffffff,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--link-hover,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--link-hover,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--list-divider,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
-light,--list-divider,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--list-divider,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--list-divider,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(0, 0, 0, 0.10)",4.11,FAIL,FAIL
+light,--list-divider,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#4da3d9,1.46,FAIL,FAIL
 light,--list-divider,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--list-divider,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--list-divider,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--main-background-color,#935d8c,--main-background-color,#935d8c,1.00,FAIL,FAIL
-light,--main-background-color,#935d8c,--form-bg,"rgba(255, 255, 255, 0.35)",1.93,FAIL,FAIL
-light,--main-background-color,#935d8c,--button-primary-bg,#8cc9f0,2.80,FAIL,FAIL
+light,--main-background-color,#935d8c,--form-bg,"rgba(0, 0, 0, 0.10)",1.18,FAIL,FAIL
+light,--main-background-color,#935d8c,--button-primary-bg,#4da3d9,1.81,FAIL,FAIL
 light,--main-background-color,#935d8c,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.93,FAIL,FAIL
-light,--main-background-color,#935d8c,--back-btn-bg,"rgba(255, 255, 255, 0.9)",4.42,FAIL,FAIL
+light,--main-background-color,#935d8c,--back-btn-bg,"rgba(255, 255, 255, 0.95)",4.72,PASS,FAIL
 light,--main-background-image-grad-end,#5f4d93,--main-background-color,#935d8c,1.41,FAIL,FAIL
-light,--main-background-image-grad-end,#5f4d93,--form-bg,"rgba(255, 255, 255, 0.35)",2.72,FAIL,FAIL
-light,--main-background-image-grad-end,#5f4d93,--button-primary-bg,#8cc9f0,3.95,FAIL,FAIL
+light,--main-background-image-grad-end,#5f4d93,--form-bg,"rgba(0, 0, 0, 0.10)",1.20,FAIL,FAIL
+light,--main-background-image-grad-end,#5f4d93,--button-primary-bg,#4da3d9,2.54,FAIL,FAIL
 light,--main-background-image-grad-end,#5f4d93,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.72,FAIL,FAIL
-light,--main-background-image-grad-end,#5f4d93,--back-btn-bg,"rgba(255, 255, 255, 0.9)",6.23,PASS,FAIL
+light,--main-background-image-grad-end,#5f4d93,--back-btn-bg,"rgba(255, 255, 255, 0.95)",6.65,PASS,FAIL
 light,--main-background-image-grad-start,#e37682,--main-background-color,#935d8c,1.72,FAIL,FAIL
-light,--main-background-image-grad-start,#e37682,--form-bg,"rgba(255, 255, 255, 0.35)",1.13,FAIL,FAIL
-light,--main-background-image-grad-start,#e37682,--button-primary-bg,#8cc9f0,1.63,FAIL,FAIL
+light,--main-background-image-grad-start,#e37682,--form-bg,"rgba(0, 0, 0, 0.10)",2.02,FAIL,FAIL
+light,--main-background-image-grad-start,#e37682,--button-primary-bg,#4da3d9,1.05,FAIL,FAIL
 light,--main-background-image-grad-start,#e37682,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.13,FAIL,FAIL
-light,--main-background-image-grad-start,#e37682,--back-btn-bg,"rgba(255, 255, 255, 0.9)",2.58,FAIL,FAIL
+light,--main-background-image-grad-start,#e37682,--back-btn-bg,"rgba(255, 255, 255, 0.95)",2.75,FAIL,FAIL
 light,--select-focus-bg,transparent,--main-background-color,#935d8c,1.00,FAIL,FAIL
-light,--select-focus-bg,transparent,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--select-focus-bg,transparent,--button-primary-bg,#8cc9f0,1.00,FAIL,FAIL
+light,--select-focus-bg,transparent,--form-bg,"rgba(0, 0, 0, 0.10)",3.55,FAIL,FAIL
+light,--select-focus-bg,transparent,--button-primary-bg,#4da3d9,1.00,FAIL,FAIL
 light,--select-focus-bg,transparent,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--select-focus-bg,transparent,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--select-focus-bg,transparent,--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--spotlight-image-border,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
-light,--spotlight-image-border,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--spotlight-image-border,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--spotlight-image-border,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(0, 0, 0, 0.10)",4.11,FAIL,FAIL
+light,--spotlight-image-border,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#4da3d9,1.46,FAIL,FAIL
 light,--spotlight-image-border,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--spotlight-image-border,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--spotlight-image-border,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--stats-style1-bg,#efa8b0,--main-background-color,#935d8c,2.60,FAIL,FAIL
-light,--stats-style1-bg,#efa8b0,--form-bg,"rgba(255, 255, 255, 0.35)",1.35,FAIL,FAIL
-light,--stats-style1-bg,#efa8b0,--button-primary-bg,#8cc9f0,1.08,FAIL,FAIL
+light,--stats-style1-bg,#efa8b0,--form-bg,"rgba(0, 0, 0, 0.10)",3.07,FAIL,FAIL
+light,--stats-style1-bg,#efa8b0,--button-primary-bg,#4da3d9,1.44,FAIL,FAIL
 light,--stats-style1-bg,#efa8b0,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.35,FAIL,FAIL
-light,--stats-style1-bg,#efa8b0,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.70,FAIL,FAIL
+light,--stats-style1-bg,#efa8b0,--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.81,FAIL,FAIL
 light,--stats-style2-bg,#c79cc8,--main-background-color,#935d8c,2.15,FAIL,FAIL
-light,--stats-style2-bg,#c79cc8,--form-bg,"rgba(255, 255, 255, 0.35)",1.12,FAIL,FAIL
-light,--stats-style2-bg,#c79cc8,--button-primary-bg,#8cc9f0,1.30,FAIL,FAIL
+light,--stats-style2-bg,#c79cc8,--form-bg,"rgba(0, 0, 0, 0.10)",2.54,FAIL,FAIL
+light,--stats-style2-bg,#c79cc8,--button-primary-bg,#4da3d9,1.19,FAIL,FAIL
 light,--stats-style2-bg,#c79cc8,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.12,FAIL,FAIL
-light,--stats-style2-bg,#c79cc8,--back-btn-bg,"rgba(255, 255, 255, 0.9)",2.05,FAIL,FAIL
+light,--stats-style2-bg,#c79cc8,--back-btn-bg,"rgba(255, 255, 255, 0.95)",2.19,FAIL,FAIL
 light,--stats-style3-bg,#a89cc8,--main-background-color,#935d8c,1.97,FAIL,FAIL
-light,--stats-style3-bg,#a89cc8,--form-bg,"rgba(255, 255, 255, 0.35)",1.02,FAIL,FAIL
-light,--stats-style3-bg,#a89cc8,--button-primary-bg,#8cc9f0,1.42,FAIL,FAIL
+light,--stats-style3-bg,#a89cc8,--form-bg,"rgba(0, 0, 0, 0.10)",2.32,FAIL,FAIL
+light,--stats-style3-bg,#a89cc8,--button-primary-bg,#4da3d9,1.09,FAIL,FAIL
 light,--stats-style3-bg,#a89cc8,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.02,FAIL,FAIL
-light,--stats-style3-bg,#a89cc8,--back-btn-bg,"rgba(255, 255, 255, 0.9)",2.24,FAIL,FAIL
+light,--stats-style3-bg,#a89cc8,--back-btn-bg,"rgba(255, 255, 255, 0.95)",2.39,FAIL,FAIL
 light,--stats-style4-bg,#9bb2e1,--main-background-color,#935d8c,2.35,FAIL,FAIL
-light,--stats-style4-bg,#9bb2e1,--form-bg,"rgba(255, 255, 255, 0.35)",1.22,FAIL,FAIL
-light,--stats-style4-bg,#9bb2e1,--button-primary-bg,#8cc9f0,1.19,FAIL,FAIL
+light,--stats-style4-bg,#9bb2e1,--form-bg,"rgba(0, 0, 0, 0.10)",2.77,FAIL,FAIL
+light,--stats-style4-bg,#9bb2e1,--button-primary-bg,#4da3d9,1.30,FAIL,FAIL
 light,--stats-style4-bg,#9bb2e1,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.22,FAIL,FAIL
-light,--stats-style4-bg,#9bb2e1,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.88,FAIL,FAIL
+light,--stats-style4-bg,#9bb2e1,--back-btn-bg,"rgba(255, 255, 255, 0.95)",2.00,FAIL,FAIL
 light,--stats-style5-bg,#8cc9f0,--main-background-color,#935d8c,2.80,FAIL,FAIL
-light,--stats-style5-bg,#8cc9f0,--form-bg,"rgba(255, 255, 255, 0.35)",1.45,FAIL,FAIL
-light,--stats-style5-bg,#8cc9f0,--button-primary-bg,#8cc9f0,1.00,FAIL,FAIL
+light,--stats-style5-bg,#8cc9f0,--form-bg,"rgba(0, 0, 0, 0.10)",3.30,FAIL,FAIL
+light,--stats-style5-bg,#8cc9f0,--button-primary-bg,#4da3d9,1.55,FAIL,FAIL
 light,--stats-style5-bg,#8cc9f0,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.45,FAIL,FAIL
-light,--stats-style5-bg,#8cc9f0,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.58,FAIL,FAIL
+light,--stats-style5-bg,#8cc9f0,--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.68,FAIL,FAIL
 light,--stats-text-color,#ffffff,--main-background-color,#935d8c,5.02,PASS,FAIL
-light,--stats-text-color,#ffffff,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--stats-text-color,#ffffff,--button-primary-bg,#8cc9f0,1.79,FAIL,FAIL
+light,--stats-text-color,#ffffff,--form-bg,"rgba(0, 0, 0, 0.10)",5.91,PASS,FAIL
+light,--stats-text-color,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
 light,--stats-text-color,#ffffff,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--stats-text-color,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--stats-text-color,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--table-border,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
-light,--table-border,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--table-border,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--table-border,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(0, 0, 0, 0.10)",4.11,FAIL,FAIL
+light,--table-border,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#4da3d9,1.46,FAIL,FAIL
 light,--table-border,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--table-border,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--table-border,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--table-header-text,#ffffff,--main-background-color,#935d8c,5.02,PASS,FAIL
-light,--table-header-text,#ffffff,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--table-header-text,#ffffff,--button-primary-bg,#8cc9f0,1.79,FAIL,FAIL
+light,--table-header-text,#ffffff,--form-bg,"rgba(0, 0, 0, 0.10)",5.91,PASS,FAIL
+light,--table-header-text,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
 light,--table-header-text,#ffffff,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--table-header-text,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--table-header-text,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--table-row-alt-bg,"rgba(255, 255, 255, 0.075)",--main-background-color,#935d8c,1.16,FAIL,FAIL
-light,--table-row-alt-bg,"rgba(255, 255, 255, 0.075)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--table-row-alt-bg,"rgba(255, 255, 255, 0.075)",--button-primary-bg,#8cc9f0,1.05,FAIL,FAIL
+light,--table-row-alt-bg,"rgba(255, 255, 255, 0.075)",--form-bg,"rgba(0, 0, 0, 0.10)",1.23,FAIL,FAIL
+light,--table-row-alt-bg,"rgba(255, 255, 255, 0.075)",--button-primary-bg,#4da3d9,1.09,FAIL,FAIL
 light,--table-row-alt-bg,"rgba(255, 255, 255, 0.075)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--table-row-alt-bg,"rgba(255, 255, 255, 0.075)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--table-row-alt-bg,"rgba(255, 255, 255, 0.075)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--text-primary,#ffffff,--main-background-color,#935d8c,5.02,PASS,FAIL
-light,--text-primary,#ffffff,--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--text-primary,#ffffff,--button-primary-bg,#8cc9f0,1.79,FAIL,FAIL
+light,--text-primary,#ffffff,--form-bg,"rgba(0, 0, 0, 0.10)",5.91,PASS,FAIL
+light,--text-primary,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
 light,--text-primary,#ffffff,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--text-primary,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--text-primary,#ffffff,--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--text-secondary,"rgba(255, 255, 255, 0.95)",--main-background-color,#935d8c,4.72,PASS,FAIL
-light,--text-secondary,"rgba(255, 255, 255, 0.95)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--text-secondary,"rgba(255, 255, 255, 0.95)",--button-primary-bg,#8cc9f0,1.74,FAIL,FAIL
+light,--text-secondary,"rgba(255, 255, 255, 0.95)",--form-bg,"rgba(0, 0, 0, 0.10)",5.86,PASS,FAIL
+light,--text-secondary,"rgba(255, 255, 255, 0.95)",--button-primary-bg,#4da3d9,2.65,FAIL,FAIL
 light,--text-secondary,"rgba(255, 255, 255, 0.95)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--text-secondary,"rgba(255, 255, 255, 0.95)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--text-secondary,"rgba(255, 255, 255, 0.95)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",--main-background-color,#935d8c,1.93,FAIL,FAIL
-light,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#8cc9f0,1.24,FAIL,FAIL
+light,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",--form-bg,"rgba(0, 0, 0, 0.10)",4.11,FAIL,FAIL
+light,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",--button-primary-bg,#4da3d9,1.46,FAIL,FAIL
 light,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--theme-toggle-border,"rgba(255, 255, 255, 0.3)",--main-background-color,#935d8c,1.77,FAIL,FAIL
-light,--theme-toggle-border,"rgba(255, 255, 255, 0.3)",--form-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--theme-toggle-border,"rgba(255, 255, 255, 0.3)",--button-primary-bg,#8cc9f0,1.20,FAIL,FAIL
+light,--theme-toggle-border,"rgba(255, 255, 255, 0.3)",--form-bg,"rgba(0, 0, 0, 0.10)",3.80,FAIL,FAIL
+light,--theme-toggle-border,"rgba(255, 255, 255, 0.3)",--button-primary-bg,#4da3d9,1.39,FAIL,FAIL
 light,--theme-toggle-border,"rgba(255, 255, 255, 0.3)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",2.60,FAIL,FAIL
-light,--theme-toggle-border,"rgba(255, 255, 255, 0.3)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.14,FAIL,FAIL
+light,--theme-toggle-border,"rgba(255, 255, 255, 0.3)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",1.06,FAIL,FAIL
 light,--theme-toggle-color,#083040,--main-background-color,#935d8c,2.78,FAIL,FAIL
-light,--theme-toggle-color,#083040,--form-bg,"rgba(255, 255, 255, 0.35)",5.36,PASS,FAIL
-light,--theme-toggle-color,#083040,--button-primary-bg,#8cc9f0,7.78,PASS,PASS
+light,--theme-toggle-color,#083040,--form-bg,"rgba(0, 0, 0, 0.10)",2.36,FAIL,FAIL
+light,--theme-toggle-color,#083040,--button-primary-bg,#4da3d9,5.01,PASS,FAIL
 light,--theme-toggle-color,#083040,--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",5.36,PASS,FAIL
-light,--theme-toggle-color,#083040,--back-btn-bg,"rgba(255, 255, 255, 0.9)",12.27,PASS,PASS
+light,--theme-toggle-color,#083040,--back-btn-bg,"rgba(255, 255, 255, 0.95)",13.10,PASS,PASS
 light,--theme-toggle-shadow,"0 4px 14px rgba(0, 0, 0, 0.3)",--main-background-color,#935d8c,1.67,FAIL,FAIL
-light,--theme-toggle-shadow,"0 4px 14px rgba(0, 0, 0, 0.3)",--form-bg,"rgba(255, 255, 255, 0.35)",1.83,FAIL,FAIL
-light,--theme-toggle-shadow,"0 4px 14px rgba(0, 0, 0, 0.3)",--button-primary-bg,#8cc9f0,1.99,FAIL,FAIL
+light,--theme-toggle-shadow,"0 4px 14px rgba(0, 0, 0, 0.3)",--form-bg,"rgba(0, 0, 0, 0.10)",3.55,FAIL,FAIL
+light,--theme-toggle-shadow,"0 4px 14px rgba(0, 0, 0, 0.3)",--button-primary-bg,#4da3d9,1.88,FAIL,FAIL
 light,--theme-toggle-shadow,"0 4px 14px rgba(0, 0, 0, 0.3)",--theme-toggle-bg,"rgba(255, 255, 255, 0.35)",1.83,FAIL,FAIL
-light,--theme-toggle-shadow,"0 4px 14px rgba(0, 0, 0, 0.3)",--back-btn-bg,"rgba(255, 255, 255, 0.9)",1.98,FAIL,FAIL
+light,--theme-toggle-shadow,"0 4px 14px rgba(0, 0, 0, 0.3)",--back-btn-bg,"rgba(255, 255, 255, 0.95)",2.04,FAIL,FAIL
 dark,--alt-class-contain-color,"rgba(255, 255, 255, 0.72)",--main-background-color,#0f1220,9.92,PASS,PASS
 dark,--alt-class-contain-color,"rgba(255, 255, 255, 0.72)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
 dark,--alt-class-contain-color,"rgba(255, 255, 255, 0.72)",--button-primary-bg,#4da3d9,2.13,FAIL,FAIL
@@ -749,11 +749,11 @@ media-dark,--form-check-active-bg,#ffffff,--form-bg,"rgba(255, 255, 255, 0.06)",
 media-dark,--form-check-active-bg,#ffffff,--button-primary-bg,#4da3d9,2.78,FAIL,FAIL
 media-dark,--form-check-active-bg,#ffffff,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",18.38,PASS,PASS
 media-dark,--form-check-active-bg,#ffffff,--back-btn-bg,"rgba(30, 30, 35, 0.95)",16.77,PASS,PASS
-media-dark,--form-check-active-text,#935d8c,--main-background-color,#0f1220,3.71,FAIL,FAIL
-media-dark,--form-check-active-text,#935d8c,--form-bg,"rgba(255, 255, 255, 0.06)",3.23,FAIL,FAIL
-media-dark,--form-check-active-text,#935d8c,--button-primary-bg,#4da3d9,1.81,FAIL,FAIL
-media-dark,--form-check-active-text,#935d8c,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",3.66,FAIL,FAIL
-media-dark,--form-check-active-text,#935d8c,--back-btn-bg,"rgba(30, 30, 35, 0.95)",3.34,FAIL,FAIL
+media-dark,--form-check-active-text,#083040,--main-background-color,#0f1220,1.34,FAIL,FAIL
+media-dark,--form-check-active-text,#083040,--form-bg,"rgba(255, 255, 255, 0.06)",1.16,FAIL,FAIL
+media-dark,--form-check-active-text,#083040,--button-primary-bg,#4da3d9,5.01,PASS,FAIL
+media-dark,--form-check-active-text,#083040,--theme-toggle-bg,"rgba(20, 20, 25, 0.85)",1.32,FAIL,FAIL
+media-dark,--form-check-active-text,#083040,--back-btn-bg,"rgba(30, 30, 35, 0.95)",1.20,FAIL,FAIL
 media-dark,--form-check-bg,"rgba(255, 255, 255, 0.06)",--main-background-color,#0f1220,1.15,FAIL,FAIL
 media-dark,--form-check-bg,"rgba(255, 255, 255, 0.06)",--form-bg,"rgba(255, 255, 255, 0.06)",16.19,PASS,PASS
 media-dark,--form-check-bg,"rgba(255, 255, 255, 0.06)",--button-primary-bg,#4da3d9,1.07,FAIL,FAIL

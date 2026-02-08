@@ -11,6 +11,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="src/assets/css/main.css" />
 		<link rel="stylesheet" href="src/assets/css/theme.css" />
+		<link rel="stylesheet" href="src/assets/css/projects.css" />
+		<link rel="stylesheet" href="src/assets/css/profile.css" />
 		<noscript><link rel="stylesheet" href="src/assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
@@ -22,13 +24,18 @@
 			<div id="wrapper">
 				<!-- Header -->
 					<header id="header" class="alt">
-						<span class="logo"><img src="src/images/logo.svg" alt="" /></span>
+						<span class="logo profile-photo-wrapper">
+							<img src="src/images/Rishi_Photo.jpeg" alt="Rishi Pal" class="profile-photo" />
+						</span>
 						<h1>Rishi Pal</h1>
 						<p>Senior Software Engineer | macOS, iOS, Windows | Systems & Security<br /> <a href="https://sophos.com">@Sophos</a></p>
 					</header>
 
 				<!-- Nav -->
 					<nav id="nav">
+						<span class="nav-profile-photo" aria-hidden="true">
+							<img src="src/images/Rishi_Photo.jpeg" alt="" />
+						</span>
 						<ul>
 							<li><a href="#aboutme" class="active">About Me</a></li>
 							<li><a href="#experience">Experience</a></li>
@@ -191,77 +198,102 @@
 								</p>
 							</header>
 
-							<div class="features">
+							<div class="project-cards">
 
-								<section>
-									<span class="icon solid fa-shield-alt major style1"></span>
-									<h3>
-										Sophos ZTNA
-									</h3>
+								<article class="project-card">
+									<div class="project-card-icon style1"><i class="fas fa-shield-alt"></i></div>
+									<h3>Sophos ZTNA</h3>
 									<p>
 										Zero Trust Network Access solution enforcing identity and device-based
 										access control using micro-segmentation.
 									</p>
-									<ul class="actions">
-										<li><a href="src/projects.html#ztna" class="button small">View Details</a></li>
-									</ul>
-								</section>
+									<div class="project-tags">
+										<span class="project-tag">Swift</span>
+										<span class="project-tag">Objective-C</span>
+										<span class="project-tag">CoreData</span>
+										<span class="project-tag">WebSocket</span>
+									</div>
+									<div class="project-card-actions">
+										<a href="https://www.sophos.com/en-us/products/zero-trust-network-access" target="_blank" rel="noopener" class="button primary small">Learn More</a>
+										<a href="src/projects.html#ztna" class="button small">View Details</a>
+									</div>
+								</article>
 
-								<section>
-									<span class="icon solid fa-lock major style2"></span>
-									<h3>
-										Sophos Connect
-									</h3>
+								<article class="project-card">
+									<div class="project-card-icon style2"><i class="fas fa-lock"></i></div>
+									<h3>Sophos Connect</h3>
 									<p>
 										Secure remote access client supporting IPsec and SSL VPN with strong
 										encryption and enterprise-grade authentication.
 									</p>
-									<ul class="actions">
-										<li><a href="src/projects.html#sophos-connect" class="button small">View Details</a></li>
-									</ul>
-								</section>
+									<div class="project-tags">
+										<span class="project-tag">C++</span>
+										<span class="project-tag">Swift</span>
+										<span class="project-tag">OpenVPN</span>
+										<span class="project-tag">IPSec</span>
+									</div>
+									<div class="project-card-actions">
+										<a href="https://docs.sophos.com/nsg/sophos-firewall/22.0/Help/en-us/webhelp/onlinehelp/index.html#download-the-client" target="_blank" rel="noopener" class="button primary small">Documentation</a>
+										<a href="src/projects.html#sophos-connect" class="button small">View Details</a>
+									</div>
+								</article>
 
-								<section>
-									<span class="icon solid fa-motorcycle major style3"></span>
-									<h3>
-										Gojek
-									</h3>
+								<article class="project-card">
+									<div class="project-card-icon style3"><i class="fas fa-motorcycle"></i></div>
+									<h3>Gojek</h3>
 									<p>
 										Large-scale super app enabling transport, payments, food delivery,
 										and SDK-driven feature development.
 									</p>
-									<ul class="actions">
-										<li><a href="src/projects.html#gojek" class="button small">View Details</a></li>
-									</ul>
-								</section>
+									<div class="project-tags">
+										<span class="project-tag">Swift</span>
+										<span class="project-tag">CoreData</span>
+										<span class="project-tag">WebSocket</span>
+										<span class="project-tag">UI Testing</span>
+									</div>
+									<div class="project-card-actions">
+										<a href="https://apps.apple.com/in/app/gojek/id944875099" target="_blank" rel="noopener" class="button primary small">App Store</a>
+										<a href="src/projects.html#gojek" class="button small">View Details</a>
+									</div>
+								</article>
 
-								<section>
-									<span class="icon solid fa-comments major style4"></span>
-									<h3>
-										FUGU
-									</h3>
+								<article class="project-card">
+									<div class="project-card-icon style4"><i class="fas fa-comments"></i></div>
+									<h3>FUGU</h3>
 									<p>
 										Enterprise chat and calling platform with WebRTC, CallKit, and
 										white-label support.
 									</p>
-									<ul class="actions">
-										<li><a href="src/projects.html#fugu" class="button small">View Details</a></li>
-									</ul>
-								</section>
+									<div class="project-tags">
+										<span class="project-tag">Swift</span>
+										<span class="project-tag">UIKit</span>
+										<span class="project-tag">WebRTC</span>
+										<span class="project-tag">CallKit</span>
+									</div>
+									<div class="project-card-actions">
+										<a href="https://apps.apple.com/in/app/fugu-simple-work-chat/id1336986136" target="_blank" rel="noopener" class="button primary small">App Store</a>
+										<a href="src/projects.html#fugu" class="button small">View Details</a>
+									</div>
+								</article>
 
-								<section>
-									<span class="icon solid fa-credit-card major style5"></span>
-									<h3>
-										CellPay
-									</h3>
+								<article class="project-card">
+									<div class="project-card-icon style5"><i class="fas fa-credit-card"></i></div>
+									<h3>CellPay</h3>
 									<p>
 										Digital payments platform supporting bank transfers, bill payments,
 										and mobile top-ups.
 									</p>
-									<ul class="actions">
-										<li><a href="src/projects.html#cellpay" class="button small">View Details</a></li>
-									</ul>
-								</section>
+									<div class="project-tags">
+										<span class="project-tag">Swift</span>
+										<span class="project-tag">UIKit</span>
+										<span class="project-tag">CoreData</span>
+										<span class="project-tag">Payment APIs</span>
+									</div>
+									<div class="project-card-actions">
+										<a href="https://apps.apple.com/us/app/cellpay/id1441280711" target="_blank" rel="noopener" class="button primary small">App Store</a>
+										<a href="src/projects.html#cellpay" class="button small">View Details</a>
+									</div>
+								</article>
 
 							</div>
 						</section>
@@ -326,7 +358,7 @@
 								<dd>India (Open to Remote)</dd>
 								<dt>Email</dt>
 								<dd><a href="#">rishipalindolia@gmail.com</a></dd>
-								<br>
+								
 							</dl>
 							<ul class="icons">
 								<li>
@@ -362,7 +394,7 @@
 			<script src="src/assets/js/breakpoints.min.js"></script>
 			<script src="src/assets/js/util.js"></script>
 			<script src="src/assets/js/main.js"></script>
-	        <script src="src/assets/js/theme.js"></script>
+			<script type="module" src="/src/main.ts"></script>
 
 	</body>
 </html>

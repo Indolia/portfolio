@@ -1,4 +1,25 @@
 /* =========================
+   THEME TRANSITIONS
+   ========================= */
+
+html {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+html *,
+html *::before,
+html *::after {
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Disable transitions during initial load (matches body.is-preload) */
+body.is-preload *,
+body.is-preload *::before,
+body.is-preload *::after {
+  transition: none !important;
+}
+
+/* =========================
    DEFAULT THEME (Light)
    ========================= */
 
@@ -109,6 +130,38 @@
     --back-btn-color: #333;
     --back-btn-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
     --back-btn-shadow-hover: 0 10px 24px rgba(0, 0, 0, 0.2);
+    /* Main surface */
+    --main-bg: #ffffff;
+    --main-text: #636363;
+
+    /* Borders & dividers */
+    --main-border: #dddddd;
+
+    /* Muted backgrounds */
+    --main-bg-muted-1: rgba(222, 222, 222, 0.25);
+    --main-bg-muted-2: rgba(222, 222, 222, 0.5);
+
+    /* Placeholder / muted text */
+    --main-text-muted: rgba(99, 99, 99, 0.25);
+
+    /* Accent */
+    --main-accent: #8cc9f0;
+    --main-accent-hover: #9acff2;
+    --main-accent-active: #7ec3ee;
+
+    /* Icon */
+    --main-icon-muted: rgba(99, 99, 99, 0.25);
+
+    /* Header gradient */
+    --main-header-grad-1: #efa8b0;
+    --main-header-grad-2: #a89cc8;
+    --main-header-grad-3: #8cc9f0;
+
+    /* Back button: use light surface and dark text to contrast against main background */
+    --back-btn-bg: rgba(255, 255, 255, 0.95);
+    --back-btn-color: #083040;
+    --back-btn-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+    --back-btn-shadow-hover: 0 10px 24px rgba(0, 0, 0, 0.18);
 
     /* Slightly increase toggle background opacity so white icon meets contrast */
     --theme-toggle-bg: rgba(255, 255, 255, 0.35);
@@ -186,6 +239,26 @@
 
         --spotlight-image-border: rgba(255, 255, 255, 0.18);
 
+        --main-bg: #1c1d22;
+        --main-text: rgba(255, 255, 255, 0.75);
+
+        --main-border: rgba(255, 255, 255, 0.18);
+
+        --main-bg-muted-1: rgba(255, 255, 255, 0.06);
+        --main-bg-muted-2: rgba(255, 255, 255, 0.12);
+
+        --main-text-muted: rgba(255, 255, 255, 0.35);
+
+        --main-accent: #8cc9f0;
+        --main-accent-hover: #9fd4f4;
+        --main-accent-active: #79bde8;
+
+        --main-icon-muted: rgba(255, 255, 255, 0.35);
+
+        --main-header-grad-1: #d16f9c;
+        --main-header-grad-2: #7a6bb0;
+        --main-header-grad-3: #4fa3d1;
+
         --back-btn-bg: rgba(30, 30, 35, 0.95);
         --back-btn-color: #ffffff;
         --back-btn-shadow: 0 6px 18px rgba(0, 0, 0, 0.5);
@@ -196,6 +269,90 @@
         --theme-toggle-color: #ffffff;
         --theme-toggle-shadow: 0 6px 20px rgba(0, 0, 0, 0.6);
     }
+}
+
+/* =========================
+   LIGHT THEME (explicit - overrides system preference)
+   ========================= */
+
+/* When user explicitly chooses light, override the dark media query */
+[data-theme="light"] {
+    --main-background-color: #935d8c;
+    --main-background-image-grad-start: #e37682;
+    --main-background-image-grad-end: #5f4d93;
+    --alt-class-contain-color: rgba(255, 255, 255, 0.65);
+    --text-primary: #ffffff;
+    --text-secondary: rgba(255, 255, 255, 0.95);
+    --link-hover: #ffffff;
+    --border-soft: rgba(255, 255, 255, 0.35);
+    --code-bg: rgba(255, 255, 255, 0.075);
+    --box-border-color: rgba(255, 255, 255, 0.35);
+    --button-bg: transparent;
+    --button-border: rgba(255, 255, 255, 0.35);
+    --button-text: #ffffff;
+    --button-hover-bg: rgba(255, 255, 255, 0.075);
+    --button-active-bg: rgba(255, 255, 255, 0.2);
+    --button-icon: rgba(255, 255, 255, 0.5);
+    --button-primary-bg: #8cc9f0;
+    --button-primary-hover-bg: #9acff2;
+    --button-primary-active-bg: #7ec3ee;
+    --button-primary-text: #083040;
+    --form-label: #ffffff;
+    --form-text: #083040;
+    --form-placeholder: rgba(255, 255, 255, 0.5);
+    --form-bg: rgba(255, 255, 255, 0.35);
+    --form-border: rgba(255, 255, 255, 0.35);
+    --form-focus: #8cc9f0;
+    --form-select-arrow: rgba(255, 255, 255, 0.35);
+    --form-select-option-bg: #935d8c;
+    --form-select-option-text: #ffffff;
+    --form-check-bg: rgba(255, 255, 255, 0.075);
+    --form-check-border: rgba(255, 255, 255, 0.35);
+    --form-check-active-bg: #ffffff;
+    --form-check-active-text: #935d8c;
+    --icon-style1: #efa8b0;
+    --icon-style2: #c79cc8;
+    --icon-style3: #a89cc8;
+    --icon-style4: #9bb2e1;
+    --icon-style5: #8cc9f0;
+    --icon-border: rgba(255, 255, 255, 0.35);
+    --icon-alt-text: #ffffff;
+    --icon-alt-hover-bg: rgba(255, 255, 255, 0.075);
+    --icon-alt-active-bg: rgba(255, 255, 255, 0.2);
+    --list-divider: rgba(255, 255, 255, 0.35);
+    --dl-title: #ffffff;
+    --header-divider: rgba(255, 255, 255, 0.35);
+    --table-border: rgba(255, 255, 255, 0.35);
+    --table-row-alt-bg: rgba(255, 255, 255, 0.075);
+    --table-header-text: #ffffff;
+    --stats-text-color: #ffffff;
+    --stats-style1-bg: #efa8b0;
+    --stats-style2-bg: #c79cc8;
+    --stats-style3-bg: #a89cc8;
+    --stats-style4-bg: #9bb2e1;
+    --stats-style5-bg: #8cc9f0;
+    --spotlight-image-border: rgba(255, 255, 255, 0.35);
+    --main-bg: #ffffff;
+    --main-text: #636363;
+    --main-border: #dddddd;
+    --main-bg-muted-1: rgba(222, 222, 222, 0.25);
+    --main-bg-muted-2: rgba(222, 222, 222, 0.5);
+    --main-text-muted: rgba(99, 99, 99, 0.25);
+    --main-accent: #8cc9f0;
+    --main-accent-hover: #9acff2;
+    --main-accent-active: #7ec3ee;
+    --main-icon-muted: rgba(99, 99, 99, 0.25);
+    --main-header-grad-1: #efa8b0;
+    --main-header-grad-2: #a89cc8;
+    --main-header-grad-3: #8cc9f0;
+    --back-btn-bg: rgba(255, 255, 255, 0.95);
+    --back-btn-color: #083040;
+    --back-btn-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+    --back-btn-shadow-hover: 0 10px 24px rgba(0, 0, 0, 0.18);
+    --theme-toggle-bg: rgba(255, 255, 255, 0.35);
+    --theme-toggle-border: rgba(255, 255, 255, 0.3);
+    --theme-toggle-color: #083040;
+    --theme-toggle-shadow: 0 4px 14px rgba(0, 0, 0, 0.3);
 }
 
 /* =========================
