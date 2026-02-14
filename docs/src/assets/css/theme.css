@@ -410,6 +410,10 @@ body.is-preload *::after {
     /* Focus */
     --form-focus: #4da3d9;
 
+    --main-bg: #1c1d22;
+    --main-text: rgba(255, 255, 255, 0.75);
+    --main-border: rgba(255, 255, 255, 0.18);
+
     /* Select */
     --form-select-arrow: rgba(255, 255, 255, 0.3);
     --form-select-option-bg: #1c1c1e;
