@@ -13,6 +13,8 @@
 		<link rel="stylesheet" href="src/assets/css/theme.css" />
 		<link rel="stylesheet" href="src/assets/css/projects.css" />
 		<link rel="stylesheet" href="src/assets/css/profile.css" />
+		<link rel="stylesheet" href="src/assets/css/experience.css" />
+		<link rel="stylesheet" href="src/assets/css/skills.css" />
 		<noscript><link rel="stylesheet" href="src/assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
@@ -72,67 +74,19 @@
 						<section id="experience" class="main special">
 							<header class="major">
 								<h2>Experience</h2>
-								<p>Over 10+ years of experience building large-scale, secure, and user-facing applications.</p>
+								<p>Over 10+ years of building secure, high-performance products for Apple and cross-platform ecosystems.</p>
 							</header>
-
-							<ul class="features">
-								<li>
-									<span class="icon solid major style1 fa-shield-alt"></span>
-									<h3>
-										<a href="https://www.sophos.com" target="_blank" rel="noopener">
-											Sophos
-										</a>
-									</h3>
-									<p>
-										<strong>Senior Software Engineer</strong><br />
-										macOS, Windows & iOS Application Development<br />
-										Apr 2021 – Present
-									</p>
-								</li>
-
-								<li>
-									<span class="icon solid major style3 fa-map-marker-alt"></span>
-									<h3>
-										<a href="https://www.skuad.io" target="_blank" rel="noopener">
-											Skuad
-										</a>
-									</h3>
-									<p>
-										<strong>Senior Software Engineer</strong> <br>
-										(Consultant for GoJek)<br />
-										iOS Application Development<br />
-										Feb 2020 – Apr 2021
-									</p>
-								</li>
-
-								<li>
-									<span class="icon solid major style5 fa-comment-dots"></span>
-									<h3>
-										<a href="https://www.clicklabs.co" target="_blank" rel="noopener">
-											Click Labs
-										</a>
-									</h3>
-									<p>
-										<strong>Senior Software Engineer</strong><br />
-										iOS & iPadOS Application Development<br />
-										Dec 2018 – Jan 2020
-									</p>
-								</li>
-
-								<li>
-									<span class="icon solid major style2 fa-mobile-alt"></span>
-									<h3>
-										<a href="https://www.chromeinfotech.com" target="_blank" rel="noopener">
-											ChromeInfoTech
-										</a>
-									</h3>
-									<p>
-										<strong>Software Engineer</strong><br />
-										iOS & iPadOS Application Development<br />
-										Jan 2015 – Oct 2018
-									</p>
-								</li>
-							</ul>
+							<div class="experience-shell" aria-live="polite">
+								<p id="experience-description" class="experience-intro">
+									A timeline of roles, impact, and technologies. Expand any role to view highlights.
+								</p>
+								<ol
+									id="experience-timeline"
+									class="experience-timeline"
+									role="list"
+									aria-describedby="experience-description"
+								></ol>
+							</div>
 						</section>
 
 						<!-- Skills -->
@@ -145,7 +99,7 @@
 								</p>
 							</header>
 
-							<ul class="statistics">
+							<ul class="statistics skills-grid">
 								<li class="style1">
 									<span class="icon solid fa-code"></span>
 									<strong>Languages</strong>
@@ -177,7 +131,7 @@
 								</li>
 							</ul>
 
-							<p class="content">
+							<p class="content skills-summary">
 								Experienced in building secure, high-performance applications with a strong
 								focus on system-level programming, network security, and scalable
 								architectures. Hands-on expertise with VPN technologies (IPSec/IKEv2,

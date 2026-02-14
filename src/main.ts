@@ -4,5 +4,7 @@
  */
 
 import { initTheme } from "./utils/themeHandler";
+import { initExperienceTimeline } from "./experience";
 
 initTheme();
+initExperienceTimeline();
