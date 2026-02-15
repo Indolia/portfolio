@@ -161,21 +161,26 @@
 }
 
 #experience .experience-toggle {
-  border: 0;
-  background: transparent;
+  border: 1px solid var(--section-card-border);
+  background: var(--section-card-bg);
   color: var(--section-accent);
-  font-weight: 700;
-  font-size: 0.82rem;
-  letter-spacing: 0.02em;
+  font-weight: 600; /* slightly lighter so smaller text reads well */
+  font-size: 0.72rem; /* slightly smaller label as requested */
+  letter-spacing: 0.01em;
   text-transform: uppercase;
-  padding: 0;
+  padding: 0.5rem 0.95rem; /* larger tappable area */
   cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  border-radius: 0.5rem; /* pill */
+  min-height: 40px; /* make button visually bigger */
 }
 
 #experience .experience-toggle:focus-visible {
-  outline: 2px solid var(--section-accent);
-  outline-offset: 4px;
-  border-radius: 0.15rem;
+  outline: none;
+  box-shadow: 0 6px 18px rgba(8,30,56,0.08), 0 0 0 3px var(--section-accent-soft);
+  border-color: var(--section-accent);
 }
 
 #experience .experience-details {
@@ -277,6 +282,12 @@
   #experience .experience-summary,
   #experience .experience-details p {
     font-size: 0.88rem;
+  }
+
+  #experience .experience-toggle {
+    padding: 0.42rem 0.7rem;
+    font-size: 0.68rem;
+    min-height: 36px;
   }
 }
 
