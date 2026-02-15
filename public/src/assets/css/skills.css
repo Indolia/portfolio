@@ -1,5 +1,5 @@
 #skills {
-  border-radius: 1.1rem;
+  border-radius: 0; /*1.1rem;*/
   background: var(--section-bg-skills);
 }
 

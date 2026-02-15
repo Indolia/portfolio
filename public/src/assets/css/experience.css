@@ -183,6 +183,33 @@
   border-color: var(--section-accent);
 }
 
+#experience .experience-toggle .toggle-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  flex: 0 0 20px;
+}
+
+#experience .experience-toggle .toggle-icon svg {
+  width: 16px;
+  height: 16px;
+  display: block;
+  transition: transform 220ms cubic-bezier(.2,.9,.2,1), opacity 180ms ease;
+  transform-origin: center center;
+}
+
+#experience .experience-toggle .label {
+  display: inline-block;
+  min-width: 2ch;
+}
+
+/* rotate chevron when expanded */
+#experience .experience-item.is-expanded .experience-toggle .toggle-icon svg {
+  transform: rotate(-180deg);
+}
+
 #experience .experience-details {
   margin-top: 0.8rem;
   display: grid;
@@ -301,5 +328,9 @@
   #experience .experience-item {
     opacity: 1;
     transform: none;
+  }
+
+  #experience .experience-toggle .toggle-icon svg {
+    transition: none !important;
   }
 }

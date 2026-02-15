@@ -108,8 +108,14 @@ function createExperienceItem(entry: ExperienceEntry): HTMLLIElement {
           class="experience-toggle"
           aria-expanded="false"
           aria-controls="${detailsId}"
+          aria-label="View Highlights"
         >
-          View Highlights
+          <span class="toggle-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" width="18" height="18" focusable="false" aria-hidden="true">
+              <polyline points="6 9 12 15 18 9" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </span>
+          <span class="label">View</span>
         </button>
       </div>
       <div id="${detailsId}" class="experience-details" hidden>
@@ -142,7 +148,15 @@ function bindInteraction(listElement: HTMLOListElement): void {
 
       const isExpanded = button.getAttribute("aria-expanded") === "true";
       button.setAttribute("aria-expanded", String(!isExpanded));
-      button.textContent = isExpanded ? "View Highlights" : "Hide Highlights";
+      // update short label while preserving icon
+      const lbl = button.querySelector<HTMLSpanElement>(".label");
+      if (lbl) {
+        lbl.textContent = isExpanded ? "View" : "Hide";
+      } else {
+        button.textContent = isExpanded ? "View" : "Hide";
+      }
+      // keep a descriptive aria-label for screen readers
+      button.setAttribute('aria-label', isExpanded ? 'View Highlights' : 'Hide Highlights');
       item.classList.toggle("is-expanded", !isExpanded);
       details.toggleAttribute("hidden", isExpanded);
     });
